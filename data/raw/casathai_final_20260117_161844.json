@@ -1,0 +1,4146 @@
+{
+  "supplier": "CASATHAI",
+  "date": "20260117_161844",
+  "products": [
+    {
+      "sku_adquify": "ADQ-CA-18E34BCF",
+      "name_original": "MESA DE JARD\u00cdN TINA BLANCA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/6474-home_default/mesa-de-jardin-tina-blanca.jpg"
+      ],
+      "product_url": "https://casathai.es/es/exterior-y-jardin/1267-mesa-de-jardin-tina-blanca-8435641709845.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-97EA8FEC",
+      "name_original": "MESA ARYA MADERA PATA BLANCA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/6430-home_default/mesa-arya-madera-pata-blanca.jpg"
+      ],
+      "product_url": "https://casathai.es/es/mesas-de-comedor/1261-mesa-arya-madera-pata-blanca-8435641709821.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-88B720B2",
+      "name_original": "MESA ARYA MADERA PATA NEGRA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/6421-home_default/mesa-arya-madera-pata-negra.jpg"
+      ],
+      "product_url": "https://casathai.es/es/mesas-de-comedor/1260-mesa-arya-madera-pata-negra-8435641709821.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-984FF983",
+      "name_original": "MESA EXTENSIBLE ENZO MADERA PATA BLANCA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/6417-home_default/mesa-extensible-enzo-madera-pata-blanca.jpg"
+      ],
+      "product_url": "https://casathai.es/es/mesas-de-comedor/1259-mesa-extensible-enzo-madera-pata-blanca-8435641709814.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-6A516795",
+      "name_original": "MESA EXTENSIBLE ENZO MADERA PATA NEGRA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/6408-home_default/mesa-extensible-enzo-madera-pata-negra.jpg"
+      ],
+      "product_url": "https://casathai.es/es/mesas-de-comedor/1258-mesa-extensible-enzo-madera-pata-negra-8435641709807.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-CA252FFA",
+      "name_original": "MESA DE JARD\u00cdN TINA NEGRA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/5997-home_default/mesa-de-jardin-tina-negra.jpg"
+      ],
+      "product_url": "https://casathai.es/es/exterior-y-jardin/1213-mesa-de-jardin-tina-negra-8435641709395.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-27B5816A",
+      "name_original": "SET DE 2 MESITAS CANADA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/4388-home_default/mesa-de-escritorio-canada.jpg"
+      ],
+      "product_url": "https://casathai.es/es/auxiliar/922-mesa-de-escritorio-canada-8435641706257.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-C64D182C",
+      "name_original": "MESA RINC\u00d3N GINA NEGRA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/5588-home_default/mesa-rincon-gina-negra.jpg"
+      ],
+      "product_url": "https://casathai.es/es/auxiliar/1129-mesa-rincon-gina-negra-8435641708497.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-C79910B0",
+      "name_original": "MESA RINC\u00d3N GINA BLANCA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/5584-home_default/mesa-ricon-gina-blanca.jpg"
+      ],
+      "product_url": "https://casathai.es/es/auxiliar/1128-mesa-ricon-gina-blanca-8435641708480.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-6816DAB4",
+      "name_original": "MESA RINC\u00d3N GINA NATURAL",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/5579-home_default/mesa-ricon-gina-natural.jpg"
+      ],
+      "product_url": "https://casathai.es/es/auxiliar/1127-mesa-ricon-gina-natural-8435641708473.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-5330CC7F",
+      "name_original": "MESITA BLANCA ACAPULCO",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/4512-home_default/mesita-blanca-conjunto-acapulco.jpg"
+      ],
+      "product_url": "https://casathai.es/es/exterior-y-jardin/949-mesita-blanca-conjunto-acapulco-8435641706233.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-D8627B70",
+      "name_original": "MESITA ACAPULCO NEGRA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/5300-home_default/mesita-acapulco-negra.jpg"
+      ],
+      "product_url": "https://casathai.es/es/exterior-y-jardin/937-mesita-acapulco-negra-8435641706370.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-DF6BC6FC",
+      "name_original": "MESA KALO VERDE KALE",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/5795-home_default/mesa-kalo-verde-kale.jpg"
+      ],
+      "product_url": "https://casathai.es/es/exterior-y-jardin/1180-mesa-kalo-verde-kale-8435641708893.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-E8420D8D",
+      "name_original": "MESA KALO BLANCA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/5784-home_default/mesa-kalo-blanca.jpg"
+      ],
+      "product_url": "https://casathai.es/es/exterior-y-jardin/1178-mesa-kalo-blanca-8435641709029.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-7EC1710B",
+      "name_original": "MESA KALO NEGRA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/5789-home_default/mesa-kalo-negra.jpg"
+      ],
+      "product_url": "https://casathai.es/es/exterior-y-jardin/1179-mesa-kalo-negra-8435641709036.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-C65B30B2",
+      "name_original": "MESA IBIZA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/5911-home_default/mesa-ibiza.jpg"
+      ],
+      "product_url": "https://casathai.es/es/exterior-y-jardin/1172-mesa-ibiza-8435641709043.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-B094116E",
+      "name_original": "MESA DE CENTRO MOOD - RECTANGULAR CRISTAL TRANSPARENTE",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/608-home_default/mesa-de-centro-mood-rectangular-acero.jpg"
+      ],
+      "product_url": "https://casathai.es/es/mesas-de-centro/109-mesa-de-centro-mood-rectangular-acero-8435641703614.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-49C981DD",
+      "name_original": "MESA DE CENTRO MOOD - CUADRADA CRISTAL TRANSPARENTE",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/122-home_default/mesa-auxiliar-mood-cuadrada-acero.jpg"
+      ],
+      "product_url": "https://casathai.es/es/mesas-de-centro/110-mesa-auxiliar-mood-cuadrada-acero-8435641703775.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-F28D6A07",
+      "name_original": "MESA DE CENTRO ECCO - CRISTAL TRANSPARENTE",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/912-home_default/mesa-de-centro-ecco-blanca-cristal.jpg"
+      ],
+      "product_url": "https://casathai.es/es/mesas-de-centro/166-mesa-de-centro-ecco-blanca-cristal-8435641701252.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-D0DE66A9",
+      "name_original": "MESA CENTRO CANADA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/4397-home_default/mesa-centro-canada.jpg"
+      ],
+      "product_url": "https://casathai.es/es/mesas-de-centro/913-mesa-centro-canada-8435641705533.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-08DEBC68",
+      "name_original": "MESA CENTRO CANAD\u00c1 ESTRUCTURA BLANCA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/5179-home_default/mesa-centro-canada-estructura-blanca.jpg"
+      ],
+      "product_url": "https://casathai.es/es/mesas-de-centro/1068-mesa-centro-canada-estructura-blanca-8435641708121.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-2A156C88",
+      "name_original": "MESA CENTRO AIRON",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/4606-home_default/conjunto-airon.jpg"
+      ],
+      "product_url": "https://casathai.es/es/mesas-de-centro/965-conjunto-airon-8435641702624.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-28003D17",
+      "name_original": "SET DE 2 MESAS AUXILIARES REDONDAS BALI",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/5197-home_default/set-de-2-mesas-auxiliares-redondas-bali.jpg"
+      ],
+      "product_url": "https://casathai.es/es/mesas-de-centro/1072-set-de-2-mesas-auxiliares-redondas-bali.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-655F3CBA",
+      "name_original": "MESA NINA CENTRO NOGAL 50 CM",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/5882-home_default/mesa-nina-centro-nogal-50-cm.jpg"
+      ],
+      "product_url": "https://casathai.es/es/mesas-de-centro/1195-mesa-nina-centro-nogal-50-cm-8435641709098.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-1F3B01B2",
+      "name_original": "MESA NINA CENTRO NATURAL 50 CM",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/5462-home_default/mesa-nina-centro-natural.jpg"
+      ],
+      "product_url": "https://casathai.es/es/mesas-de-centro/1117-mesa-nina-centro-natural-8435641708411.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-E440E234",
+      "name_original": "MESA CENTRO NINA BLANCA 50 CM",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/5457-home_default/mesa-centro-nina-blanca.jpg"
+      ],
+      "product_url": "https://casathai.es/es/mesas-de-centro/1116-mesa-centro-nina-blanca-8435641708404.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-0D401A55",
+      "name_original": "MESA NINA CENTRO NEGRA 50 CM",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/5452-home_default/mesa-nina-centro-negra.jpg"
+      ],
+      "product_url": "https://casathai.es/es/mesas-de-centro/1115-mesa-nina-centro-negra-8435641708398.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-5549A6A8",
+      "name_original": "MESA NINA DE CENTRO NOGAL 70 CM",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/5876-home_default/mesa-nina-de-centro-nogal-70-cm.jpg"
+      ],
+      "product_url": "https://casathai.es/es/mesas-de-centro/1194-mesa-nina-de-centro-nogal-70-cm-8435641709104.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-20E40C23",
+      "name_original": "MESA NINA DE CENTRO NEGRA 70 CM",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/5870-home_default/mesa-nina-de-centro-negra-70-cm.jpg"
+      ],
+      "product_url": "https://casathai.es/es/mesas-de-centro/1193-mesa-nina-de-centro-negra-70-cm-8435641709197.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-5F83B44E",
+      "name_original": "MESA NINA DE CENTRO BLANCA 70 CM",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/5864-home_default/mesa-nina-blanca-70-cm.jpg"
+      ],
+      "product_url": "https://casathai.es/es/mesas-de-centro/1192-mesa-nina-blanca-70-cm-8435641709203.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-5B666765",
+      "name_original": "MESA NINA DE CENTRO NATURAL 70 CM",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/5858-home_default/mesa-nina-natural-70-cm.jpg"
+      ],
+      "product_url": "https://casathai.es/es/mesas-de-centro/1191-mesa-nina-natural-70-cm-8435641709210.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-8984AB14",
+      "name_original": "MESA ELEVABLE GRETA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/5635-home_default/mesa-elevable-greta.jpg"
+      ],
+      "product_url": "https://casathai.es/es/mesas-de-centro/1143-mesa-elevable-greta-8435641708701.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-36CA40DB",
+      "name_original": "MESA CENTRO GINA NEGRA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/5601-home_default/mesa-centro-gina-negra.jpg"
+      ],
+      "product_url": "https://casathai.es/es/mesas-de-centro/1132-mesa-centro-gina-negra-8435641708527.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-E88083A2",
+      "name_original": "MESA CENTRO GINA BLANCA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/5595-home_default/mesa-centro-gina-blanca.jpg"
+      ],
+      "product_url": "https://casathai.es/es/mesas-de-centro/1131-mesa-centro-gina-blanca-8435641708510.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-365516A6",
+      "name_original": "MESA CENTRO GINA NATURAL",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/5591-home_default/mesa-centro-gina-natural.jpg"
+      ],
+      "product_url": "https://casathai.es/es/mesas-de-centro/1130-mesa-centro-gina-natural-8435641708503.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-A465C54F",
+      "name_original": "MESA DE CENTRO INCA NATURAL-NEGRO",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/5677-home_default/mesa-de-centro-inca-natural-negro.jpg"
+      ],
+      "product_url": "https://casathai.es/es/mesas-de-centro/1122-mesa-de-centro-inca-natural-negro-8435641708459.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-8DEFC321",
+      "name_original": "MESA DE CENTRO INCA BLANCA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/5683-home_default/mesa-de-centro-inca-blanca.jpg"
+      ],
+      "product_url": "https://casathai.es/es/mesas-de-centro/1123-mesa-de-centro-inca-blanca-8435641708350.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-CA513149",
+      "name_original": "MESA DAL\u00cd NI\u00d1O - BLANCA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/1855-home_default/mesa-dali-nino-blanca.jpg"
+      ],
+      "product_url": "https://casathai.es/es/mesas/330-mesa-dali-nino-blanca-8435641704185.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-2F4A79A8",
+      "name_original": "MESA VOLT BAR-BLANCO ENVEJECIDO",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/2390-home_default/mesa-volt-bar-blanco-envejecido.jpg"
+      ],
+      "product_url": "https://casathai.es/es/mesas-altas/539-mesa-volt-bar-blanco-envejecido-8435641704987.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-C5F6C8EB",
+      "name_original": "MESA VOLT BAR-BLANCA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/2501-home_default/mesa-volt-bar-blanca.jpg"
+      ],
+      "product_url": "https://casathai.es/es/mesas-altas/538-mesa-volt-bar-blanca-8435641704925.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-38CD9C28",
+      "name_original": "MESA VOLT BAR - NEGRA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/2271-home_default/mesa-volt-bar-negra.jpg"
+      ],
+      "product_url": "https://casathai.es/es/mesas-altas/417-mesa-volt-bar-negra-8435641707391.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-E8731321",
+      "name_original": "MESA GINA BAR BLANCA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/4929-home_default/mesa-gina-bar-blanca.jpg"
+      ],
+      "product_url": "https://casathai.es/es/mesas-altas/1028-mesa-gina-bar-blanca-8435641707544.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-2B39A401",
+      "name_original": "MESA GINA BAR NEGRA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/4932-home_default/mesa-gina-bar-negra.jpg"
+      ],
+      "product_url": "https://casathai.es/es/mesas-altas/1029-mesa-gina-bar-negra-8435641704551.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-869DAB05",
+      "name_original": "MESA GINA BAR BLANCA-NATURAL",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/4935-home_default/mesa-gina-bar-blanca-natural.jpg"
+      ],
+      "product_url": "https://casathai.es/es/mesas-altas/1030-mesa-gina-bar-blanca-natural-8435641707568.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-81B279E8",
+      "name_original": "MESA MIKA ALTA BLANCA/ MADERA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/5893-home_default/mesa-mika-alta-blanca-madera.jpg"
+      ],
+      "product_url": "https://casathai.es/es/mesas-altas/1197-mesa-mika-alta-blanca-madera-8435641709012.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-D298EF3A",
+      "name_original": "MESA GINA NEGRA-BLANCA 90X90",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/5032-home_default/mesa-gina-negra-blanca-90x90.jpg"
+      ],
+      "product_url": "https://casathai.es/es/mesas-de-cocina/823-mesa-gina-negra-blanca-90x90-8435641702570.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-FEB1027A",
+      "name_original": "MESA GINA BLANCA 90X90",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/3944-home_default/mesa-gina-blanca-90x90.jpg"
+      ],
+      "product_url": "https://casathai.es/es/mesas-de-cocina/819-mesa-gina-blanca-90x90-8435641701672.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-E7364112",
+      "name_original": "MESA GINA NEGRA 90X90",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/5578-home_default/mesa-gina-negra-90x90.jpg"
+      ],
+      "product_url": "https://casathai.es/es/mesas-de-cocina/821-mesa-gina-negra-90x90-8435641701856.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-2BF44FC8",
+      "name_original": "MESA GINA BLANCA-NATURAL 90X90",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/3948-home_default/mesa-gina-blanca-natural-90x90.jpg"
+      ],
+      "product_url": "https://casathai.es/es/mesas-de-cocina/820-mesa-gina-blanca-natural-90x90-8435641701757.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-3A1242FA",
+      "name_original": "MESA GINA NEGRA-NATURAL 90X90",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/5035-home_default/mesa-gina-negra-natural-90x90.jpg"
+      ],
+      "product_url": "https://casathai.es/es/mesas-de-cocina/824-mesa-gina-negra-natural-90x90-8435641702655.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-664FC4EC",
+      "name_original": "MESA GINA BLANCA-NEGRA 90X90",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/3962-home_default/mesa-gina-blanca-negra-90x90.jpg"
+      ],
+      "product_url": "https://casathai.es/es/mesas-de-cocina/822-mesa-gina-blanca-negra-90x90-8435641702471.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-FA94526E",
+      "name_original": "MESA GINA BLANCA \u00d8120 CM",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/4449-home_default/mesa-gina.jpg"
+      ],
+      "product_url": "https://casathai.es/es/mesas-de-cocina/936-mesa-gina-8435641705717.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-B03D0139",
+      "name_original": "MESA GINA BLANCA-NEGRA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/4838-home_default/mesa-gina-blanca-negra.jpg"
+      ],
+      "product_url": "https://casathai.es/es/mesas-de-cocina/1021-mesa-gina-blanca-negra-8435641705991.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-A5D4F259",
+      "name_original": "MESA GINA NEGRA \u00d8120 CM",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/4448-home_default/mesa-gina.jpg"
+      ],
+      "product_url": "https://casathai.es/es/mesas-de-cocina/935-mesa-gina-8435641705892.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-4FD4CDD5",
+      "name_original": "MESA GINA NATURAL-BLANCA \u00d8120 CM",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/4446-home_default/mesa-gina.jpg"
+      ],
+      "product_url": "https://casathai.es/es/mesas-de-cocina/934-mesa-gina-8435641705816.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-ECCD0A45",
+      "name_original": "MESA VOLT MADERA 120x80",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/2332-home_default/mesa-volt-madera-120x80.jpg"
+      ],
+      "product_url": "https://casathai.es/es/mesas-de-comedor/429-mesa-volt-madera-120x80-8435641707414.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-733A90C2",
+      "name_original": "MESA VOLT 120 BLANCA MADERA-PATA BLANCA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/5992-home_default/mesa-volt-120-blanca-madera-pata-blanca.jpg"
+      ],
+      "product_url": "https://casathai.es/es/mesas-de-cocina/577-mesa-volt-120-blanca-madera-pata-blanca-8435641705281.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-69C87FA7",
+      "name_original": "MESA VOLT 120 BLANCA MADERA OSCURA-PATA BLANCA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/5995-home_default/mesa-volt-120-blanca-madera-oscura-pata-blanca.jpg"
+      ],
+      "product_url": "https://casathai.es/es/mesas-de-cocina/1212-mesa-volt-120-blanca-madera-oscura-pata-blanca-8435641701948.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-2D913FA0",
+      "name_original": "MESA VOLT MADERA 80x80",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/2335-home_default/mesa-volt-madera-80x80.jpg"
+      ],
+      "product_url": "https://casathai.es/es/mesas-de-cocina/430-mesa-volt-madera-80x80-8435641707438.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-871FABDF",
+      "name_original": "MESA VOLT 80 BLANCA MADERA-PATA BLANCA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/2784-home_default/mesa-volt-80-blanca-madera-pata-blanca.jpg"
+      ],
+      "product_url": "https://casathai.es/es/mesas-de-cocina/578-mesa-volt-80-blanca-madera-pata-blanca-8435641705168.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-DE1F427B",
+      "name_original": "MESA VOLT 80 BLANCA MADERA OSCURA-PATA BLANCA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/5704-home_default/mesa-volt-80-blanca-madera-oscura-pata-blanca.jpg"
+      ],
+      "product_url": "https://casathai.es/es/mesas-de-cocina/1155-mesa-volt-80-blanca-madera-oscura-pata-blanca-8435641702020.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-BCF9F0D4",
+      "name_original": "MESA VOLT METAL - NEGRA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/2269-home_default/mesa-volt-metal-negra.jpg"
+      ],
+      "product_url": "https://casathai.es/es/mesas-de-cocina/416-mesa-volt-metal-negra-8435641707377.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-796E3643",
+      "name_original": "MESA VOLT METAL - BLANCA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/2267-home_default/mesa-volt-metal-blanca.jpg"
+      ],
+      "product_url": "https://casathai.es/es/mesas-de-cocina/415-mesa-volt-metal-blanca-8435641707353.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-6ADC8B12",
+      "name_original": "MESA SKORPIO - BLANCA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/1889-home_default/mesa-skorpio-blanca.jpg"
+      ],
+      "product_url": "https://casathai.es/es/mesas-de-cocina/195-mesa-skorpio-blanca-8435641706776.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-36ACD3F7",
+      "name_original": "MESA SKORPIO - GRIS",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/1884-home_default/mesa-skorpio-gris.jpg"
+      ],
+      "product_url": "https://casathai.es/es/mesas-de-cocina/336-mesa-skorpio-gris-8435641706837.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-4BED4018",
+      "name_original": "MESA EXTENSIBLE MIKA BLANCA/NATURAL",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/5901-home_default/mesa-extensible-mika-blancanatural.jpg"
+      ],
+      "product_url": "https://casathai.es/es/mesas-de-cocina/1199-mesa-extensible-mika-blancanatural-8435641709227.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-C9A4E357",
+      "name_original": "MESA EXTENSIBLE MIKA NATURAL",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/5897-home_default/mesa-extensible-mika-naturalblanco.jpg"
+      ],
+      "product_url": "https://casathai.es/es/mesas-de-cocina/1198-mesa-extensible-mika-naturalblanco-8435641709142.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-ED3DB693",
+      "name_original": "MESA BASIC CRISTAL TRANSPARENTE PATA NEGRA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/5131-home_default/mesa-basic-cristal-transparente-pata-negra.jpg"
+      ],
+      "product_url": "https://casathai.es/es/mesas-de-cocina/1060-mesa-basic-cristal-transparente-pata-negra-8435641707841.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-A71FF5BD",
+      "name_original": "MESA EXTENSIBLE ADANA NATURAL",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/3744-home_default/mesa-extensible-adana-natural.jpg"
+      ],
+      "product_url": "https://casathai.es/es/mesas-de-cocina/751-mesa-extensible-adana-natural-8435641701399.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-CDE8E330",
+      "name_original": "MESA EXTENSIBLE ADANA-BLANCA/NATURAL",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/2738-home_default/mesa-extensible-adana-blancanatural.jpg"
+      ],
+      "product_url": "https://casathai.es/es/mesas-de-cocina/501-mesa-extensible-adana-blancanatural-8435641701313.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-E4454CEC",
+      "name_original": "MESA MIKA MADERA NATURAL",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/3743-home_default/mesa-mika-madera-natural.jpg"
+      ],
+      "product_url": "https://casathai.es/es/mesas-de-cocina/752-mesa-mika-madera-natural-8435641701498.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-B6A613C7",
+      "name_original": "MESA MIKA-BLANCA CON PATA NATURAL",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/2714-home_default/mesa-mika-blancapt-natural.jpg"
+      ],
+      "product_url": "https://casathai.es/es/mesas-de-cocina/567-mesa-mika-blancapt-natural-8435641701139.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-10191C75",
+      "name_original": "MESA MIKA-BLANCA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/2648-home_default/mesa-mika-blanca.jpg"
+      ],
+      "product_url": "https://casathai.es/es/mesas-de-cocina/500-mesa-mika-blanca-8435641701214.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-6CD3D915",
+      "name_original": "MESA BASIC - BLANCA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/1051-home_default/mesa-basic-blanca.jpg"
+      ],
+      "product_url": "https://casathai.es/es/mesas-de-cocina/197-mesa-basic-blanca-8435641706813.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-19756FFD",
+      "name_original": "MESA BASIC - GRIS",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/3232-home_default/mesa-basic-gris.jpg"
+      ],
+      "product_url": "https://casathai.es/es/mesas-de-cocina/317-mesa-basic-gris-8435641706851.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-11D9C764",
+      "name_original": "MESA BASIC CRISTAL TRASPARENTE",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/3724-home_default/mesa-basic-cristal-trasparente.jpg"
+      ],
+      "product_url": "https://casathai.es/es/mesas-de-comedor/729-mesa-basic-cristal-trasparente-8435641702693.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-4EF65266",
+      "name_original": "MESA TOWER CRISTAL 100X100",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/3728-home_default/mesa-tower-cristal-100x100.jpg"
+      ],
+      "product_url": "https://casathai.es/es/mesas-de-comedor/728-mesa-tower-cristal-100x100-8435641702532.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-E902E4BE",
+      "name_original": "MESA SOUL-NATURAL",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/2669-home_default/mesa-soul-natural.jpg"
+      ],
+      "product_url": "https://casathai.es/es/mesas-de-comedor/487-mesa-soul-natural.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-233E46D0",
+      "name_original": "MESA SOUL - CRISTAL BLANCO PATAS BLANCAS",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/6123-home_default/mesa-soul-madera-blanca-cristal-blanco.jpg"
+      ],
+      "product_url": "https://casathai.es/es/mesas-de-comedor/91-mesa-soul-madera-blanca-cristal-blanco-8435641700736.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-C6A818A0",
+      "name_original": "MESA SOUL - CRISTAL TRANSPARENTE PATAS BLANCAS",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/6122-home_default/mesa-soul-patas-blancas-cristal-transparente.jpg"
+      ],
+      "product_url": "https://casathai.es/es/mesas-de-comedor/226-mesa-soul-patas-blancas-cristal-transparente-8435641700897.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-F4521F66",
+      "name_original": "MESA SOUL - CRISTAL TRANSPARENTE PATAS NEGRAS",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/1217-home_default/mesa-soul-patas-negras-cristal-transparente.jpg"
+      ],
+      "product_url": "https://casathai.es/es/mesas-de-comedor/227-mesa-soul-patas-negras-cristal-transparente-8435641700910.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-DA893641",
+      "name_original": "MESA ECCO - CRISTAL TRANSPARENTE",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/939-home_default/mesa-ecco-blanca-cristal.jpg"
+      ],
+      "product_url": "https://casathai.es/es/mesas-de-comedor/165-mesa-ecco-blanca-cristal-8435641701092.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-56ABA0F0",
+      "name_original": "MESA CORAL TRANSPARENTE PATA NEGRA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/5128-home_default/mesa-coral-transparente-pata-negra.jpg"
+      ],
+      "product_url": "https://casathai.es/es/mesas-de-comedor/1059-mesa-coral-transparente-pata-negra-8435641707834.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-FB4CFF9A",
+      "name_original": "MESA GINA EFECTO M\u00c1RMOL NEGRA 120 CM",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/6119-home_default/mesa-gina-efecto-marmol-negra-120-cm.jpg"
+      ],
+      "product_url": "https://casathai.es/es/mesas-de-cocina/1185-mesa-gina-efecto-marmol-negra-120-cm-8435641709135.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-418CE813",
+      "name_original": "MESA GINA EFECTO M\u00c1RMOL NEGRO 90 CM",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/6118-home_default/mesa-gina-efecto-marmol-negro-90-cm.jpg"
+      ],
+      "product_url": "https://casathai.es/es/mesas-de-comedor/1183-mesa-gina-efecto-marmol-negro-90-cm-8435641708909.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-09D6ED1D",
+      "name_original": "MESA GINA EFECTO M\u00c1RMOL BLANCA 120 CM",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/6117-home_default/mesa-gina-efecto-marmol-blanca-120-cm.jpg"
+      ],
+      "product_url": "https://casathai.es/es/mesas-de-comedor/1186-mesa-gina-efecto-marmol-blanca-120-cm-8435641709128.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-36695086",
+      "name_original": "MESA GINA EFECTO M\u00c1RMOL BLANCA 90 CM",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/6116-home_default/mesa-gina-efecto-marmol-blanca-90-cm.jpg"
+      ],
+      "product_url": "https://casathai.es/es/mesas-de-comedor/1184-mesa-gina-efecto-marmol-blanca-90-cm-8435641709111.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-F74DF44F",
+      "name_original": "MESA DE COMEDOR INCA BLANCA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/6115-home_default/mesa-de-comedor-inca-blanca.jpg"
+      ],
+      "product_url": "https://casathai.es/es/mesas-de-comedor/1124-mesa-de-comedor-inca-blanca-8435641708367.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-3CB09E0C",
+      "name_original": "MESA DE COMEDOR INCA NATURAL-NEGRO",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/6103-home_default/mesa-de-comedor-inca-natural-negro.jpg"
+      ],
+      "product_url": "https://casathai.es/es/mesas-de-comedor/1121-mesa-de-comedor-inca-natural-negro-8435641708466.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-710B2E6F",
+      "name_original": "MESA NINA NOGAL 100 CM",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/6114-home_default/mesa-nina-nogal-100-cm.jpg"
+      ],
+      "product_url": "https://casathai.es/es/mesas-de-comedor/1190-mesa-nina-nogal-100-cm-8435641709074.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-0E6D99A5",
+      "name_original": "MESA NINA NATURAL 100 CM",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/6113-home_default/mesa-nina-natural.jpg"
+      ],
+      "product_url": "https://casathai.es/es/mesas-de-comedor/1114-mesa-nina-natural-8435641708381.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-CF163714",
+      "name_original": "MESA NINA BLANCA 100 CM",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/6112-home_default/mesa-nina-blanca.jpg"
+      ],
+      "product_url": "https://casathai.es/es/mesas-de-comedor/1113-mesa-nina-blanca-8435641708374.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-7C0FB629",
+      "name_original": "MESA NINA NEGRA 100 CM",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/6110-home_default/mesa-nina-negra.jpg"
+      ],
+      "product_url": "https://casathai.es/es/mesas-de-comedor/1112-mesa-nina-negra-8435641708343.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-BF1AB20B",
+      "name_original": "MESA NINA NATURAL 120 CM",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/6109-home_default/mesa-nina-natural-120-cm.jpg"
+      ],
+      "product_url": "https://casathai.es/es/mesas-de-comedor/1189-mesa-nina-natural-120-cm-8435641709180.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-4868DF55",
+      "name_original": "MESA NINA BLANCA 120 CM",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/6108-home_default/mesa-nina-blanca-120-cm.jpg"
+      ],
+      "product_url": "https://casathai.es/es/mesas-de-comedor/1188-mesa-nina-blanca-120-cm-8435641709173.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-AF35217C",
+      "name_original": "MESA REDONDA TEBA MADERA PATA BLANCA 110",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/6106-home_default/mesa-redonda-teba-madera-pata-blanca-110.jpg"
+      ],
+      "product_url": "https://casathai.es/es/mesas-de-comedor/1065-mesa-redonda-teba-madera-pata-blanca-110-8435641707964.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-3D521117",
+      "name_original": "MESA REDONDA TEBA MADERA PATA BLANCA 110",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/6105-home_default/mesa-redonda-teba-madera-pata-blanca-110.jpg"
+      ],
+      "product_url": "https://casathai.es/es/mesas-de-comedor/1126-mesa-redonda-teba-madera-pata-blanca-110-8435641708534.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-BC66D477",
+      "name_original": "MESA REDONDA TEBA MADERA PATA NEGRA 110",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/6104-home_default/-mesa-redonda-teba-madera-pata-negra-110.jpg"
+      ],
+      "product_url": "https://casathai.es/es/mesas-de-comedor/1064--mesa-redonda-teba-madera-pata-negra-110-8435641707957.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-9B007803",
+      "name_original": "MESA NINA NOGAL 120 CM",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/6107-home_default/mesa-nina-nogal-120-cm.jpg"
+      ],
+      "product_url": "https://casathai.es/es/mesas-de-comedor/1187-mesa-nina-nogal-120-cm-8435641709081.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-83E3B99F",
+      "name_original": "MESA EXTENSIBLE TRIBAL BLANCA PURO/PATAS BLANCO",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/2867-home_default/mesa-extensible-tribal-blanca-puropatas-blanco.jpg"
+      ],
+      "product_url": "https://casathai.es/es/liquidacion/589-mesa-extensible-tribal-blanca-puropatas-blanco-8435641705496.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-A74E8BF5",
+      "name_original": "MESA DE ESCRITORIO DUSTER NEGRA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/4375-home_default/mesa-de-escritorio-duster.jpg"
+      ],
+      "product_url": "https://casathai.es/es/liquidacion/919-mesa-de-escritorio-duster-8435641706530.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-D275CC6A",
+      "name_original": "MESA DE ESCRITORIO DUSTER NATURAL",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/4376-home_default/mesa-de-escritorio-duster-natural.jpg"
+      ],
+      "product_url": "https://casathai.es/es/liquidacion/920-mesa-de-escritorio-duster-natural-8435641706615.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-AC154835",
+      "name_original": "MESA EXTENSIBLE NIA CER\u00c1MICA GRIS/PATAS GRIS",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/2876-home_default/mesa-extensible-nia-ceramica-grispatas-gris.jpg"
+      ],
+      "product_url": "https://casathai.es/es/liquidacion/588-mesa-extensible-nia-ceramica-grispatas-gris-8435641705311.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-B0E506E8",
+      "name_original": "MESA EXTENSIBLE NIA CER\u00c1MICA ANTRACITA/PATAS ANTRACITA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/2870-home_default/mesa-extensible-nia-ceramica-antracitapatas-antracita.jpg"
+      ],
+      "product_url": "https://casathai.es/es/liquidacion/587-mesa-extensible-nia-ceramica-antracitapatas-antracita-8435641705137.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-AA79D269",
+      "name_original": "MESA DE CENTRO BAMBOO - RECTANGULAR CRISTAL NEGRO",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/157-home_default/mesa-de-centro-bamboo-cristal-negro.jpg"
+      ],
+      "product_url": "https://casathai.es/es/liquidacion/107-mesa-de-centro-bamboo-cristal-negro-8435641703591.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-0C3D9559",
+      "name_original": "TABURETE CARLIN ARENA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/6280-home_default/taburete-carlin-arena.jpg"
+      ],
+      "product_url": "https://casathai.es/es/taburetes/1245-taburete-carlin-arena-8435641709487.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-00AF69C0",
+      "name_original": "TABURETE CARLIN GRIS OSCURO",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/6270-home_default/taburete-carlin-gris-oscuro.jpg"
+      ],
+      "product_url": "https://casathai.es/es/taburetes/1244-taburete-carlin-gris-oscuro-8435641709470.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-C3CCD8AF",
+      "name_original": "TABURETE CARLIN GRIS CLARO",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/6261-home_default/taburete-carlin-gris-claro.jpg"
+      ],
+      "product_url": "https://casathai.es/es/taburetes/1243-taburete-carlin-gris-claro-8435641709463.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-DD48B617",
+      "name_original": "TABURETE TEBAS ARENA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/6256-home_default/taburete-tebas-arena.jpg"
+      ],
+      "product_url": "https://casathai.es/es/taburetes/1242-taburete-tebas-arena-8435641709456.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-AE018A66",
+      "name_original": "TABURETE TEBAS GRIS CLARO",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/6246-home_default/taburete-tebas-gris-claro.jpg"
+      ],
+      "product_url": "https://casathai.es/es/taburetes/1241-taburete-tebas-gris-claro-8435641709449.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-699BAE03",
+      "name_original": "TABURETE COSMO ARENA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/6239-home_default/taburete-cosmo-arena.jpg"
+      ],
+      "product_url": "https://casathai.es/es/taburetes/1240-taburete-cosmo-arena-8435641709432.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-EFC7F47F",
+      "name_original": "TABURETE COSMO GRIS",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/6233-home_default/taburete-cosmo-gris.jpg"
+      ],
+      "product_url": "https://casathai.es/es/taburetes/1239-taburete-cosmo-gris-8435641709425.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-DBAB34E3",
+      "name_original": "TABURETE EROS BLANCO",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/6149-home_default/taburete-eros-blanco.jpg"
+      ],
+      "product_url": "https://casathai.es/es/taburetes/1228-taburete-eros-blanco-8435641709678.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-4DED89F6",
+      "name_original": "TABURETE EROS ARENA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/6144-home_default/taburete-eros-arena.jpg"
+      ],
+      "product_url": "https://casathai.es/es/taburetes/1227-taburete-eros-arena-8435641709661.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-83C25A4B",
+      "name_original": "TABURETE CRONOS ROSA TERCIOPELO",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/5971-home_default/taburete-cronos-rosa.jpg"
+      ],
+      "product_url": "https://casathai.es/es/taburetes/1207-taburete-cronos-rosa-8435641709302.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-667B9E7C",
+      "name_original": "TABURETE CRONOS GRIS TERCIOPELO",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/5965-home_default/taburete-cronos-gris.jpg"
+      ],
+      "product_url": "https://casathai.es/es/taburetes/1206-taburete-cronos-gris-8435641709289.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-55B72F35",
+      "name_original": "TABURETE CRONOS GRIS",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/5981-home_default/taburete-cronos-gris.jpg"
+      ],
+      "product_url": "https://casathai.es/es/taburetes/1209-taburete-cronos-gris-8435641709326.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-C1FC4B47",
+      "name_original": "TABURETE CRONOS ARENA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/5671-home_default/taburete-crono-arena.jpg"
+      ],
+      "product_url": "https://casathai.es/es/taburetes/1149-taburete-crono-arena-8435641708763.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-B02004BF",
+      "name_original": "TABURETE DAL\u00cd PATCHWORK",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/2499-home_default/taburete-dali-patchwork.jpg"
+      ],
+      "product_url": "https://casathai.es/es/taburetes/444-taburete-dali-patchwork-8435641700767.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-6918F2B0",
+      "name_original": "TABURETE MEGAN GRIS 65",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/4080-home_default/taburete-megan-gris-65.jpg"
+      ],
+      "product_url": "https://casathai.es/es/taburetes/853-taburete-megan-gris-65-8435641703942.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-7EBED8E4",
+      "name_original": "TABURETE MEGAN NEGRO 65",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/4084-home_default/taburete-megan-negro-65.jpg"
+      ],
+      "product_url": "https://casathai.es/es/taburetes/854-taburete-megan-negro-65-8435641703980.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-866F2DDF",
+      "name_original": "TABURETE MEGAN ROSA 65",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/4087-home_default/taburete-megan-rosa-65.jpg"
+      ],
+      "product_url": "https://casathai.es/es/taburetes/855-taburete-megan-rosa-65-8435641704123.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-359B9381",
+      "name_original": "TABURETE MEGAN AGUAMARINA 65",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/4093-home_default/taburete-megan-agua-65.jpg"
+      ],
+      "product_url": "https://casathai.es/es/taburetes/856-taburete-megan-agua-65-8435641704161.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-484C1BA8",
+      "name_original": "TABURETE MEGAN BEIGE 65",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/4100-home_default/taburete-megan-beige-65.jpg"
+      ],
+      "product_url": "https://casathai.es/es/taburetes/858-taburete-megan-beige-65-8435641704345.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-93AB2B9D",
+      "name_original": "TABURETE MEGAN KALE 75",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/5698-home_default/taburete-megan-kale-75.jpg"
+      ],
+      "product_url": "https://casathai.es/es/taburetes/1153-taburete-megan-kale-75-8435641708879.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-428363BA",
+      "name_original": "TABURETE MEGAN NUDE 75",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/5695-home_default/taburete-megan-nude-75.jpg"
+      ],
+      "product_url": "https://casathai.es/es/taburetes/1152-taburete-megan-nude-75-8435641708961.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-6F05F169",
+      "name_original": "TABURETE MEGAN KALE 65",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/5692-home_default/taburete-megan-kale-65.jpg"
+      ],
+      "product_url": "https://casathai.es/es/taburetes/1151-taburete-megan-kale-65-8435641708862.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-1EA93D06",
+      "name_original": "TABURETE MEGAN NUDE 65",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/5689-home_default/taburete-megan-arena-65.jpg"
+      ],
+      "product_url": "https://casathai.es/es/taburetes/1150-taburete-megan-arena-65-8435641708855.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-AFA7CEFF",
+      "name_original": "TABURETE MEGAN ARENA 75",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/5351-home_default/taburete-megan-arena-75.jpg"
+      ],
+      "product_url": "https://casathai.es/es/taburetes/1097-taburete-megan-arena-75-8435641708268.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-F5B89EE6",
+      "name_original": "TABURETE MEGAN ARENA 65",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/5346-home_default/taburete-megan-arena-65.jpg"
+      ],
+      "product_url": "https://casathai.es/es/taburetes/1096-taburete-megan-arena-65-8435641708251.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-668BAE99",
+      "name_original": "TABURETE DAL\u00cd COBALTO",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/5330-home_default/taburete-dali-cobalto.jpg"
+      ],
+      "product_url": "https://casathai.es/es/taburetes/1093-taburete-dali-cobalto-8435641708220.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-1FC3C1B2",
+      "name_original": "TABURETE DAL\u00cd MOSTAZA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/5325-home_default/taburete-dali-mostaza.jpg"
+      ],
+      "product_url": "https://casathai.es/es/taburetes/1092-taburete-dali-mostaza-8435641708213.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-A2E8D0AA",
+      "name_original": "TABURETE CAPI TEJIDO BLANCO ENVEJECIDO",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/5206-home_default/taburete-capi-tejido-blanco-envejecido.jpg"
+      ],
+      "product_url": "https://casathai.es/es/taburetes/1073-taburete-capi-tejido-blanco-envejecido-8435641708169.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-B398E712",
+      "name_original": "TABURETE CAPI TEXTIL MARR\u00d3N PATA NEGRA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/5117-home_default/taburete-capi-textil-marron-pata-negra.jpg"
+      ],
+      "product_url": "https://casathai.es/es/taburetes/1056-taburete-capi-textil-marron-pata-negra-8435641707735.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-6E81EEE6",
+      "name_original": "TABURETE CAPI TEXTIL ANTRACITA PATA NEGRA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/5112-home_default/taburete-capi-textil-antracita-pata-negra.jpg"
+      ],
+      "product_url": "https://casathai.es/es/taburetes/1055-taburete-capi-textil-antracita-pata-negra-8435641707728.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-97407C20",
+      "name_original": "TABURETE CAPI TEXTIL GRIS PATA NEGRA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/5107-home_default/taburete-capi-textil-gris-pata-negra.jpg"
+      ],
+      "product_url": "https://casathai.es/es/taburetes/1054-taburete-capi-textil-gris-pata-negra-8435641707711.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-7C438B2F",
+      "name_original": "TABURETE DAL\u00cd - GRIS",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/2219-home_default/taburete-dali-gris.jpg"
+      ],
+      "product_url": "https://casathai.es/es/taburetes/405-taburete-dali-gris-8435641700149.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-C4B91D17",
+      "name_original": "TABURETE DAL\u00cd - BLANCO",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/1789-home_default/taburete-dali.jpg"
+      ],
+      "product_url": "https://casathai.es/es/taburetes/311-taburete-dali-8435641706752.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-F5FEDF9A",
+      "name_original": "TABURETE DAL\u00cd - ARENA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/2243-home_default/taburete-dali-arena.jpg"
+      ],
+      "product_url": "https://casathai.es/es/taburetes/410-taburete-dali-arena-8435641700583.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-04010043",
+      "name_original": "TABURETE DAL\u00cd - NEGRO",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/2189-home_default/taburete-dali-negro.jpg"
+      ],
+      "product_url": "https://casathai.es/es/taburetes/399-taburete-dali-negro-8435641706363.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-273A3AA2",
+      "name_original": "TABURETE DAL\u00cd - AGUAMARINA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/2248-home_default/taburete-dali-aguamarina.jpg"
+      ],
+      "product_url": "https://casathai.es/es/taburetes/411-taburete-dali-aguamarina-8435641700682.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-EF282938",
+      "name_original": "TABURETE DALI VERDE KALE",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/3732-home_default/taburete-dali-verde-kale.jpg"
+      ],
+      "product_url": "https://casathai.es/es/taburetes/748-taburete-dali-verde-kale-8435641702563.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-FF455824",
+      "name_original": "TABURETE VOLT - BLANCO DESGASTADO",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/1800-home_default/taburete-volt-blanco-desgastado.jpg"
+      ],
+      "product_url": "https://casathai.es/es/taburetes/314-taburete-volt-blanco-desgastado-8435641707155.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-41BB05BA",
+      "name_original": "TABURETE VOLT CHOCOLATE MADERA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/3638-home_default/taburete-volt-chocolate-madera.jpg"
+      ],
+      "product_url": "https://casathai.es/es/taburetes/723-taburete-volt-chocolate-madera-8435641701764.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-E70DDBC4",
+      "name_original": "TABURETE VOLT BLANCO MADERA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/4841-home_default/taburete-volt-blanco-madera.jpg"
+      ],
+      "product_url": "https://casathai.es/es/taburetes/559-taburete-volt-blanco-madera-8435641705342.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-312E319C",
+      "name_original": "TABURETE VOLT - AMARILLO",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/1928-home_default/taburete-volt-amarillo.jpg"
+      ],
+      "product_url": "https://casathai.es/es/taburetes/315-taburete-volt-amarillo-8435641707179.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-1A3AFE45",
+      "name_original": "TABURETE VOLT - NEGRO",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/1797-home_default/taburete-volt-negro.jpg"
+      ],
+      "product_url": "https://casathai.es/es/taburetes/313-taburete-volt-negro-8435641707131.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-B5346ED1",
+      "name_original": "TABURETE VOLT - BLANCO",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/1795-home_default/taburete-volt-blanco.jpg"
+      ],
+      "product_url": "https://casathai.es/es/taburetes/312-taburete-volt-blanco-8435641707117.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-582CA19E",
+      "name_original": "TABURETE VOLT - AZUL",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/1931-home_default/taburete-volt-azul.jpg"
+      ],
+      "product_url": "https://casathai.es/es/taburetes/316-taburete-volt-azul-8435641707216.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-13863296",
+      "name_original": "TABURETE ALTO VOLT- NATURAL",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/2358-home_default/taburete-alto-volt-natural.jpg"
+      ],
+      "product_url": "https://casathai.es/es/taburetes/434-taburete-alto-volt-natural-8435641707292.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-DCA82641",
+      "name_original": "TABURETE ALTO VOLT- BLANCO ENVEJECIDO",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/2361-home_default/taburete-alto-volt-blanco-envejecido.jpg"
+      ],
+      "product_url": "https://casathai.es/es/taburetes/435-taburete-alto-volt-blanco-envejecido-8435641707315.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-0FB6E060",
+      "name_original": "TABURETE ALTO VOLT-BLANCO",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/2352-home_default/taburete-alto-volt-blanco.jpg"
+      ],
+      "product_url": "https://casathai.es/es/taburetes/432-taburete-alto-volt-blanco-8435641707254.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-ABEAAC54",
+      "name_original": "TABURETE ALTO VOLT- NEGRO",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/2355-home_default/taburete-alto-volt-negro.jpg"
+      ],
+      "product_url": "https://casathai.es/es/taburetes/433-taburete-alto-volt-negro-8435641707278.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-5E70817E",
+      "name_original": "TABURETE ALPHA VINTAGE-GRIS",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/3053-home_default/taburete-alpha-vintage-gris.jpg"
+      ],
+      "product_url": "https://casathai.es/es/taburetes/505-taburete-alpha-vintage-gris-8435641704017.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-6A5C6F75",
+      "name_original": "TABURETE ALPHA VINTAGE-MARR\u00d3N",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/3048-home_default/taburete-alpha-vintage-marron.jpg"
+      ],
+      "product_url": "https://casathai.es/es/taburetes/504-taburete-alpha-vintage-marron-8435641703911.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-507E9017",
+      "name_original": "SILL\u00d3N TABURETE PATCHWORK",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/2524-home_default/sillon-taburete-patchwork.jpg"
+      ],
+      "product_url": "https://casathai.es/es/taburetes/547-sillon-taburete-patchwork-8435641703027.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-308002B2",
+      "name_original": "SILL\u00d3N TABURETE DAL\u00cd-GRIS",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/2423-home_default/sillon-taburete-dali-gris.jpg"
+      ],
+      "product_url": "https://casathai.es/es/taburetes/545-sillon-taburete-dali-gris-8435641702921.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-19517FA6",
+      "name_original": "SILL\u00d3N TABURTE DAL\u00cd-ROJO",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/2527-home_default/sillon-taburte-dali-rojo.jpg"
+      ],
+      "product_url": "https://casathai.es/es/taburetes/544-sillon-taburte-dali-rojo-8435641702846.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-AD07C235",
+      "name_original": "SILL\u00d3N TABURETE DAL\u00cd-AGUAMARINA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/2989-home_default/sillon-taburete-dali-agua.jpg"
+      ],
+      "product_url": "https://casathai.es/es/taburetes/605-sillon-taburete-dali-agua-8435641701122.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-DBE38D77",
+      "name_original": "TABURETE CAPI CAPUCCINO",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/3479-home_default/taburete-capi-capuccino.jpg"
+      ],
+      "product_url": "https://casathai.es/es/taburetes/641-taburete-capi-capuccino-8435641704277.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-56D54D3B",
+      "name_original": "TABURETE CAPI-NEGRO",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/2590-home_default/taburete-capi-negro.jpg"
+      ],
+      "product_url": "https://casathai.es/es/taburetes/508-taburete-capi-negro-8435641704277.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-E1DCD2F2",
+      "name_original": "TABURETE CAPI-GRIS",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/2596-home_default/taburete-capi-gris.jpg"
+      ],
+      "product_url": "https://casathai.es/es/taburetes/510-taburete-capi-gris-8435641704451.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-C782E2D3",
+      "name_original": "TABURETE CAPI-BLANCO",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/2593-home_default/taburete-capi-blanco.jpg"
+      ],
+      "product_url": "https://casathai.es/es/taburetes/509-taburete-capi-blanco-8435641704376.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-AF9D3A52",
+      "name_original": "TABURETE MEGAN GRIS",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/3883-home_default/taburete-megan-gris.jpg"
+      ],
+      "product_url": "https://casathai.es/es/taburetes/762-taburete-megan-gris-8435641705113.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-8D9CBB57",
+      "name_original": "TABURETE MEGAN ROSA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/3890-home_default/taburete-megan-rosa.jpg"
+      ],
+      "product_url": "https://casathai.es/es/taburetes/764-taburete-megan-rosa-8435641705298.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-10896DF3",
+      "name_original": "TABURETE MEGAN BLANCO",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/3880-home_default/taburete-megan-blanco.jpg"
+      ],
+      "product_url": "https://casathai.es/es/taburetes/761-taburete-megan-blanco-8435641704970.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-A29742CF",
+      "name_original": "TABURETE MEGAN NEGRO",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/3887-home_default/taburete-megan-negro.jpg"
+      ],
+      "product_url": "https://casathai.es/es/taburetes/763-taburete-megan-negro-8435641705151.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-8A22CB9F",
+      "name_original": "TABURETE MEGAN AGUAMARINA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/3892-home_default/taburete-megan-agua.jpg"
+      ],
+      "product_url": "https://casathai.es/es/taburetes/765-taburete-megan-agua-8435641705335.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-0C75A7E3",
+      "name_original": "TABURETE MEGAN BEIGE",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/3940-home_default/taburete-megan-beige.jpg"
+      ],
+      "product_url": "https://casathai.es/es/taburetes/767-taburete-megan-beige-8435641705519.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-C7693B9B",
+      "name_original": "TABURETE AIRON",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/5922-home_default/taburete-airon.jpg"
+      ],
+      "product_url": "https://casathai.es/es/taburetes/1171-taburete-airon-8435641708985.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-2C5CEE27",
+      "name_original": "TABURETE AIRON PATA BLANCA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/5940-home_default/taburete-airon-pata-blanca.jpg"
+      ],
+      "product_url": "https://casathai.es/es/exterior-y-jardin/1203-taburete-airon-pata-blanca-8435641709265.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-59DF3511",
+      "name_original": "TABURETE ABEL NATURAL",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/5066-home_default/taburete-abel-natural.jpg"
+      ],
+      "product_url": "https://casathai.es/es/taburetes/1046-taburete-abel-natural-8435641707742.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-00F5D5E7",
+      "name_original": "TABURETE MIKA BLANCO MADERA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/5892-home_default/taburete-mika-blanco-madera.jpg"
+      ],
+      "product_url": "https://casathai.es/es/taburetes/1196-taburete-mika-blanco-madera-8435641709005.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-3222B67C",
+      "name_original": "TABURETE MEGAN BLANCO 65",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/4077-home_default/taburete-megan-blanco-65.jpg"
+      ],
+      "product_url": "https://casathai.es/es/taburetes/852-taburete-megan-blanco-65-8435641703805.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-8BB24385",
+      "name_original": "SILLA TELMA GRIS OSCURO PATA NEGRA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/6555-home_default/silla-telma-gris-oscuro-pata-negra.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-comedor/1275-silla-telma-gris-oscuro-pata-negra-8435641710018.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-6335287D",
+      "name_original": "SILLA TELMA GRIS PATA BEIGE",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/6546-home_default/silla-telma-gris-pata-beige.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-comedor/1274-silla-telma-gris-pata-beige-8435641709999.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-0C561FD8",
+      "name_original": "SILLA TELMA GRIS MARENGO PATA NEGRA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/6537-home_default/silla-telma-gris-marengo-pata-negra.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-comedor/1273-silla-telma-gris-marengo-pata-negra-8435641709982.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-CDAB496E",
+      "name_original": "SILLA TELMA MARR\u00d3N PATA BEIGE",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/6528-home_default/silla-telma-marron-pata-beige.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-comedor/1272-silla-telma-marron-pata-beige-8435641709975.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-519818A8",
+      "name_original": "SILLA LISA AZUL PATA NEGRA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/6590-home_default/silla-lisa-azul-pata-negra.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-comedor/1270-silla-lisa-azul-pata-negra-8435641709920.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-DB1EEE11",
+      "name_original": "SILLA LISA GRANATE PATA NEGRA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/6587-home_default/-silla-lisa-granate-pata-negra.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-comedor/1269--silla-lisa-granate-pata-negra-8435641709913.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-C0B1C133",
+      "name_original": "SILLA STYLE TEXTIL GRIS ANTRACITA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/6485-home_default/silla-style-textil-gris-antracita.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-cocina/1268-silla-style-textil-gris-antracita-8435641709906.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-77F3DEE1",
+      "name_original": "SILLA LISA ARENA PATA NEGRA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/6386-home_default/silla-lisa-arena-pata-negra.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-comedor/1255-silla-lisa-arena-pata-negra-8435641709753.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-C201FE89",
+      "name_original": "SILLA TELMA GRIS OSCURO PATA BEIGE",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/6380-home_default/silla-telma-gris-oscuro-pata-beige.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-comedor/1254-silla-telma-gris-oscuro-pata-beige-8435641709746.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-96DE4B37",
+      "name_original": "SILLA TELMA GRIS PATA NEGRA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/6519-home_default/silla-telma-gris-pata-negra.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-comedor/1253-silla-telma-gris-pata-negra-8435641709739.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-E52F3601",
+      "name_original": "SILLA TELMA GRIS MARENGO PATA BEIGE",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/6328-home_default/silla-telma-gris-marengo-pata-beige.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-comedor/1250-silla-telma-gris-marengo-pata-beige-8435641709722.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-3C313364",
+      "name_original": "SILLA TELMA MARR\u00d3N PATA NEGRA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/6319-home_default/silla-telma-marron-pata-negra.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-comedor/1249-silla-telma-marron-pata-negra-8435641709715.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-8C610B56",
+      "name_original": "SILLA EVA GRIS PATA BEIGE",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/6308-home_default/silla-eva-gris-pata-beige.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-comedor/1248-silla-eva-gris-pata-beige-8435641709708.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-2B909813",
+      "name_original": "SILLA EVA ARENA PATA BEIGE",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/6295-home_default/silla-eva-arena-pata-beige.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-comedor/1247-silla-eva-arena-pata-beige-8435641709692.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-6A339F7B",
+      "name_original": "SILLA COSMO ARENA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/6225-home_default/silla-cosmo-arena.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-tapizadas/1238-silla-cosmo-arena-8435641709418.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-3610634B",
+      "name_original": "SILLA COSMO GRIS",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/6215-home_default/silla-cosmos-gris.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-tapizadas/1237-silla-cosmos-gris-8435641709401.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-5068C7ED",
+      "name_original": "SILLA NIKI GRIS PATA NEGRA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/6195-home_default/silla-niki-gris-pata-negra.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-comedor/1234-silla-niki-gris-pata-negra-8435641709630.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-9408A743",
+      "name_original": "SILLA NIKI ARENA PATA NEGRA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/6647-home_default/silla-niki-arena-pata-negra.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-comedor/1233-silla-niki-arena-pata-negra-8435641709623.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-C4EBF176",
+      "name_original": "SILLA NIKI GRIS PATA HAYA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/6646-home_default/silla-niki-gris-pata-haya.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-comedor/1232-silla-niki-gris-pata-haya-8435641709616.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-A1C4D12B",
+      "name_original": "SILLA NIKI ARENA PATA HAYA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/6642-home_default/silla-niki-arena-pata-haya.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-comedor/1231-silla-niki-arena-pata-haya-8435641709609.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-A8F28118",
+      "name_original": "SILLA EROS BLANCA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/6161-home_default/silla-eros-blanca.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-tapizadas/1230-silla-eros-blanca-8435641709593.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-D34EA13C",
+      "name_original": "SILLA EROS ARENA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/6155-home_default/silla-eros-arena.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-tapizadas/1229-silla-eros-arena-8435641709586.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-47CB430E",
+      "name_original": "SILLA LAIMA TEXTIL ARENA Y PATA NEGRA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/6494-home_default/silla-laima-textil-arena-y-pata-negra.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-comedor/1226-silla-laima-textil-arena-y-pata-negra-8435641709685.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-A4B22EE9",
+      "name_original": "SILLA CRONOS GRIS",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/5976-home_default/silla-cronos-gris.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-comedor/1208-silla-cronos-gris-8435641709319.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-CAF30C26",
+      "name_original": "SILLA CRONOS ROSA TERCIOPELO",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/5959-home_default/silla-cronos-rosa.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-comedor/1205-silla-cronos-rosa-8435641709296.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-BACDE829",
+      "name_original": "SILLA CRONOS GRIS TERCIOPELO",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/5953-home_default/silla-cronos-gris.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-comedor/1204-silla-cronos-gris-8435641709272.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-DACA2F89",
+      "name_original": "SILLA AITANA NATURAL ASIENTO RATAN",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/5930-home_default/silla-aitana-natural-asiento-rattan.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-madera/1200-silla-aitana-natural-asiento-rattan-8435641709241.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-F4A11096",
+      "name_original": "SILLA AITANA NEGRA ASIENTO RATAN",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/5935-home_default/silla-aitana-negra-asiento-rattan.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-madera/1201-silla-aitana-negra-asiento-rattan-8435641709258.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-EFF08A94",
+      "name_original": "SILL\u00d3N DAL\u00cd - ROJO",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/1030-home_default/sillan-dali-rojo.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillones/191-sillan-dali-rojo-8435641703065.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-6CE7E3A5",
+      "name_original": "SILL\u00d3N MOON BLANCO",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/3178-home_default/sillon-moon-blanco.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillones/513-sillon-moon-blanco-8435641705090.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-68023AE8",
+      "name_original": "SILL\u00d3N DALI-AGUAMARINA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/2986-home_default/sillon-dali-agua.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillones/565-sillon-dali-agua-8435641703362.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-C6B85E3E",
+      "name_original": "SILLA DALI VERDE KALE",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/3719-home_default/silla-tower-verde-kale.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-cocina/746-silla-tower-verde-kale-8435641702488.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-1A340B17",
+      "name_original": "SILLA PICASSO VERDE KALE",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/3751-home_default/silla-picasso-tw-verde-kale.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-cocina/749-silla-picasso-tw-verde-kale-8435641700255.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-73F10E50",
+      "name_original": "SILLA ARAN ARENA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/3848-home_default/silla-aran-arena.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-cocina/809-silla-aran-arena-8435641703041.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-66305386",
+      "name_original": "SILLA DALMAU NEGRA ASIENTO ARENA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/3853-home_default/silla-dalmau-negra-asiento-arena.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas/810-silla-dalmau-negra-asiento-arena-8435641703089.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-EFC686BA",
+      "name_original": "SILLA DALMAU NEGRA ASIENTO GRIS",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/3871-home_default/silla-dalmau-negra-asiento-gris.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-cocina/813-silla-dalmau-negra-asiento-gris-8435641703409.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-415A4CCE",
+      "name_original": "SILLA LAIMA TERCIOPELO AZUL",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/4359-home_default/silla-laima-terciopelo-azul.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-comedor/918-silla-laima-terciopelo-azul-8435641700712.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-81A6FE4B",
+      "name_original": "SILLA ALTEA BLANCA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/4646-home_default/silla-altea-blanca.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-madera/982-silla-altea-blanca-8435641705489.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-22EE33CF",
+      "name_original": "SILLA ALTEA MADERA OSCURA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/4649-home_default/altea-madera-oscura.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-madera/983-altea-madera-oscura-8435641705502.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-0FAF3712",
+      "name_original": "SILLA FABIO NEGRA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/4673-home_default/silla-fabio-negra.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-madera/987-silla-fabio-negra-8435641704765.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-0C9E405C",
+      "name_original": "SILLON ABEL ROSA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/4698-home_default/sillon-abel-rosa.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-madera/992-sillon-abel-rosa-8435641705144.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-D4080794",
+      "name_original": "SILL\u00d3N ELIN AZUL",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/4780-home_default/sillon-elin-azul.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillones/1005-sillon-elin-azul-8435641700811.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-2C6DFE80",
+      "name_original": "SILLA AIRON PATA BLANCA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/5936-home_default/silla-airon-pata-blanca.jpg"
+      ],
+      "product_url": "https://casathai.es/es/exterior-y-jardin/1202-silla-airon-pata-blanca-8435641709234.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-5A9B81E9",
+      "name_original": "SILLA AIRON",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/5918-home_default/silla-airon.jpg"
+      ],
+      "product_url": "https://casathai.es/es/exterior-y-jardin/1170-silla-airon-8435641708978.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-73594FD6",
+      "name_original": "SILLA LIS MIX-KALE-NEGRA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/5724-home_default/silla-lis-mix-kale-negra.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-comedor/1163-silla-lis-mix-kale-negra-8435641708848.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-47FAB9C1",
+      "name_original": "SILLA LIS MIX-NUDE-NEGRA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/5723-home_default/silla-lis-mix-nude-negra.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-comedor/1162-silla-lis-mix-nude-negra-8435641708831.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-D170DFD9",
+      "name_original": "SILLA LIS MIX KALE- BLANCO",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/5722-home_default/silla-lis-mix-kale-blanco.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-comedor/1161-silla-lis-mix-kale-blanco-8435641708824.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-49A74467",
+      "name_original": "SILLA LIS MIX NUDE - BLANCO",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/5721-home_default/silla-lis-mix-nude-blanco.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-comedor/1160-silla-lis-mix-nude-blanco-8435641708817.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-B9AEA929",
+      "name_original": "SILLA MIX KALE",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/5720-home_default/silla-mix-kale.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-comedor/1159-silla-mix-kale-8435641708800.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-37FDF72D",
+      "name_original": "SILLA MIX NUDE",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/5717-home_default/silla-mix-nude.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-comedor/1158-silla-mix-nude-8435641708794.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-727C48A2",
+      "name_original": "SILLA CRONOS ARENA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/5664-home_default/silla-crono-arena.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-comedor/1148-silla-crono-arena-8435641708756.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-90BD2C09",
+      "name_original": "SILL\u00d3N COOPER MOSTAZA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/5646-home_default/sillon-cooper-mostaza.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillones/1146-sillon-cooper-mostaza-8435641708732.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-D2239C51",
+      "name_original": "SILL\u00d3N COOPER ARENA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/5641-home_default/sillon-cooper-arena.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-comedor/1145-sillon-cooper-arena-8435641708725.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-5F99B142",
+      "name_original": "SILL\u00d3N COOPER ROSA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/5636-home_default/silla-cooper-rosa.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-comedor/1144-silla-cooper-rosa-8435641708718.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-85CF66A6",
+      "name_original": "SILLA TULL ROSA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/5622-home_default/silla-tull-rosa.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-comedor/1142-silla-tull-rosa-8435641708695.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-7B125D36",
+      "name_original": "SILLA RITA ROSA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/5618-home_default/silla-rita-rosa.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-cocina/1141-silla-rita-rosa-8435641708671.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-695D6005",
+      "name_original": "SILLA MEGAN VERDE KALE",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/5612-home_default/silla-megan-kale.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-comedor/1140-silla-megan-kale.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-134F55C4",
+      "name_original": "SILLA MEGAN -NUDE",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/5608-home_default/silla-megan-nude.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-comedor/1139-silla-megan-nude-8435641708688.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-DEFD70AF",
+      "name_original": "SILLA FRIDA MOSTAZA CLARA PATA NEGRA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/5629-home_default/silla-frida-taupe-pata-negra.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-comedor/1105-silla-frida-taupe-pata-negra-8435641708336.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-5FC973D5",
+      "name_original": "SILLA FRIDA NEGRA PATA NOGAL",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/5392-home_default/silla-frida-negra-pata-nogal.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-comedor/1104-silla-frida-negra-pata-nogal-8435641708329.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-38219F36",
+      "name_original": "SILLA FRIDA GRIS OSCURO PATA NATURAL",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/5386-home_default/silla-frida-gris-ocuro-pata-natural.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-comedor/1103-silla-frida-gris-ocuro-pata-natural-8435641708312.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-31533F71",
+      "name_original": "SILLA FRIDA GRIS COFFEE PATA NATURAL",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/5380-home_default/silla-frida-gris-coffee-pata-natural.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-comedor/1102-silla-frida-gris-coffee-pata-natural-8435641708305.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-73ECC5C8",
+      "name_original": "SILLA FRIDA GRIS CLARO PATA NATURAL",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/5374-home_default/silla-frida-gris-claro-pata-natural.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-comedor/1101-silla-frida-gris-claro-pata-natural-8435641708299.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-4DEFF43C",
+      "name_original": "SILLA DAL\u00cd ARENA PATA WENGU\u00c9",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/5367-home_default/silla-dali-arena-pata-wengue.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-cocina/1100-silla-dali-arena-pata-wengue-8435641701269.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-26F9CF40",
+      "name_original": "SILLA MIX ARENA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/5362-home_default/silla-mix-arena.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-cocina/1099-silla-mix-arena-8435641708282.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-274F29CF",
+      "name_original": "SILLA DALMAU COBALTO",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/5340-home_default/silla-dalmau-cobalto.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-cocina/1095-silla-dalmau-cobalto-8435641708244.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-9AAF011C",
+      "name_original": "SILLA DALMAU MOSTAZA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/5335-home_default/silla-dalmau-mostaza.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-comedor/1094-silla-dalmau-mostaza-8435641708237.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-FB82A911",
+      "name_original": "SILLA PICASSO COBALTO",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/5321-home_default/silla-picasso-cobalto.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-cocina/1091-silla-picasso-cobalto-8435641708206.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-F30D90C3",
+      "name_original": "SILLA PICASSO MOSTAZA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/5314-home_default/silla-picasso-mostaza.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-cocina/1090-silla-picasso-mostaza-8435641708190.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-027837CC",
+      "name_original": "SILLA ARAN COBALTO",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/5310-home_default/silla-aran-cobalto.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-comedor/1089-silla-aran-cobalto-8435641708183.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-F0159C6B",
+      "name_original": "SILLA ARAN MOSTAZA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/5305-home_default/silla-aran-mostaza.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-comedor/1088-silla-aran-mostaza-8435641708176.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-5E3EBE5B",
+      "name_original": "SILLA DAL\u00cd MOSTAZA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/5270-home_default/silla-dali-mostaza.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-cocina/1085-silla-dali-mostaza-8435641708022.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-894F13A0",
+      "name_original": "SILLA DAL\u00cd COBALTO",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/5265-home_default/silla-dali-cobalto.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-cocina/1084-silla-dali-cobalto-8435641708015.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-8485EC11",
+      "name_original": "SILLA STYLE-KALE",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/5260-home_default/silla-style-kale.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-comedor/1083-silla-style-kale-8435641707902.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-E9E76995",
+      "name_original": "SILLA STYLE-COBALTO",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/5255-home_default/silla-style-cobalto.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-comedor/1082-silla-style-cobalto-8435641707896.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-DD077EEB",
+      "name_original": "SILLA STYLE-MOSTAZA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/5249-home_default/silla-style-mostaza.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-comedor/1081-silla-style-mostaza-8435641707889.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-02F14BD7",
+      "name_original": "SILLA RITA ARENA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/5245-home_default/silla-rita-arena.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-cocina/1080-silla-rita-arena-8435641708114.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-BEC97F0B",
+      "name_original": "SILLA RITA KALE",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/5240-home_default/silla-rita-kale.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-cocina/1079-silla-rita-kale-8435641708107.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-3C77B089",
+      "name_original": "SILLA RITA NEGRA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/5235-home_default/silla-rita-negra.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-cocina/1078-silla-rita-negra-8435641708091.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-370F173A",
+      "name_original": "SILLA RITA BLANCA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/5230-home_default/silla-rita-blanca.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-cocina/1077-silla-rita-blanca-8435641708084.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-9FE912EF",
+      "name_original": "SILLA SANDY AGUAMARINA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/5225-home_default/silla-sandy-aguamarina.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-cocina/1076-silla-sandy-aguamarina-8435641708077.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-097834B1",
+      "name_original": "SILLA SANDY NEGRA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/5220-home_default/silla-sandy-negra.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-cocina/1075-silla-sandy-negra-8435641708060.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-D1D71255",
+      "name_original": "SILLA SANDY BLANCA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/5215-home_default/silla-sandy-blanca.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-comedor/1074-silla-sandy-blanca-8435641708053.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-64083A2A",
+      "name_original": "SILLA DAL\u00cd TEXTIL GRIS CLARO CAPITON\u00c9",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/5175-home_default/silla-dali-textil-gris-claro-capitone.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-comedor/1067-silla-dali-textil-gris-claro-capitone-8435641708046.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-77839574",
+      "name_original": "SILLA DAL\u00cd TEXTIL MARR\u00d3N CAPITON\u00c9",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/5170-home_default/silla-dali-textil-marron-capitone.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-comedor/1066-silla-dali-textil-marron-capitone-8435641708039.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-71DFF20E",
+      "name_original": "SILLA MEGAN ARENA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/5154-home_default/silla-megan-verde-envejecido.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-comedor/1063-silla-megan-verde-envejecido-8435641707872.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-B2CFA7B6",
+      "name_original": "SILLA SOF\u00cdA NATURAL",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/5143-home_default/silla-sofia-natural.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-comedor/1062-silla-sofia-natural-8435641707865.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-40C5DCF3",
+      "name_original": "SILLA SOF\u00cdA BLANCA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/5138-home_default/silla-sofia-blanca.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-comedor/1061-silla-sofia-blanca-8435641707858.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-841C4E0C",
+      "name_original": "SILLA ZEN TERCIOPELO ROSA PATAS NEGRAS",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/5123-home_default/silla-zen-terciopelo-rosa-patas-negras.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-comedor/1058-silla-zen-terciopelo-rosa-patas-negras-8435641707827.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-59460782",
+      "name_original": "SILLA ZEN TERCIOPELO ROSA PATA HAYA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/5118-home_default/silla-zen-terciopelo-rosa-pata-haya.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-comedor/1057-silla-zen-terciopelo-rosa-pata-haya-8435641707810.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-268B62C8",
+      "name_original": "SILLA MEGAN TEXTIL MARENGO",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/5098-home_default/silla-megan-textil-marengo.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-comedor/1053-silla-megan-textil-marengo-8435641707780.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-FCC52A8A",
+      "name_original": "SILLA MEGAN TEXTIL MARR\u00d3N",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/5093-home_default/silla-megan-textil-marron.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-comedor/1051-silla-megan-textil-marron-8435641707773.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-2E1ED9E2",
+      "name_original": "SILLA MEGAN TEXTIL ROSA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/5088-home_default/silla-megan-textil-rosa.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-cocina/1050-silla-megan-textil-rosa-8435641707766.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-445C24FB",
+      "name_original": "SILLA MEGAN TEXTIL GRIS CLARO",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/5084-home_default/silla-megan-textil-gris-claro.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-cocina/1049-silla-megan-textil-gris-claro-8435641707759.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-A566D61D",
+      "name_original": "SILLA STYLE TEXTIL GRIS",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/5077-home_default/silla-style-textil-gris.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-cocina/1048-silla-style-textil-gris-8435641707803.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-74C46430",
+      "name_original": "SILLA STYLE TEXTIL MARR\u00d3N",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/5071-home_default/silla-style-textil-marron.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-cocina/1047-silla-style-textil-marron-8435641707797.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-AC582552",
+      "name_original": "SILLA ZEN MARENGO PATAS NEGRAS",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/5010-home_default/silla-zen-marengo-patas-negras.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-comedor/1034-silla-zen-marengo-patas-negras.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-40337D76",
+      "name_original": "SILLA ZEN COFFEE PATAS NEGRAS",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/5006-home_default/silla-zen-coffee-patas-negras.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-cocina/1033-silla-zen-coffee-patas-negras.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-C1C8BA85",
+      "name_original": "SILLA ZEN GRIS PATAS NEGRAS",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/5002-home_default/silla-zen-gris-patas-negras.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-comedor/1032-silla-zen-gris-patas-negras.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-B4B9F8B7",
+      "name_original": "SILLA VELVET DORADA AZUL",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/4776-home_default/silla-velvet-dorada-zul.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-comedor/1004-silla-velvet-dorada-zul-8435641700453.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-E73E1A19",
+      "name_original": "SILLA VELVET DORADA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/4772-home_default/silla-velvet-dorada.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-comedor/1003-silla-velvet-dorada-8435641700279.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-9B9EBCD8",
+      "name_original": "SILL\u00d3N MARCELO NEGRO PATA ORO CON RAT\u00c1N NATURAL",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/4868-home_default/sillon-marcelo-negra-pata-oro-con-ratan-natural.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-comedor/998-sillon-marcelo-negra-pata-oro-con-ratan-natural-8435641706561.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-E865000D",
+      "name_original": "SILLA ABEL ROSA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/4693-home_default/silla-abel-rosa.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-madera/991-silla-abel-rosa-8435641705120.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-04D5244E",
+      "name_original": "SILLA AITANA NATURAL",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/4688-home_default/silla-aitana-natural.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-madera/990-silla-aitana-natural-8435641705304.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-0F81E7B8",
+      "name_original": "SILLA AITANA NEGRA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/4683-home_default/silla-aitana-negra.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-madera/989-silla-aitana-negra-8435641705328.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-80DCFEEA",
+      "name_original": "SILLA FABIO BLANCA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/4678-home_default/silla-fabio-blanca.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-madera/988-silla-fabio-blanca-8435641704789.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-F7D1254D",
+      "name_original": "SILLA MISS AMARILLO",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/4642-home_default/silla-miss-amarillo.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-tapizadas/980-silla-miss-amarillo-8435641701597.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-99FDF86C",
+      "name_original": "SILLA NILO TAUPE",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/4428-home_default/silla-nilo-taupe.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-cocina/931-silla-nilo-taupe-8435641701160.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-95A5EBA4",
+      "name_original": "SILLA TOWER NILO TAUPE",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/4417-home_default/silla-tower-nilo-taupe.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-cocina/927-silla-tower-nilo-taupe-8435641700804.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-05F12E4B",
+      "name_original": "SILLA TOWER NILO GRIS",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/4411-home_default/silla-tower-nilo-gris.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-cocina/925-silla-tower-nilo-gris-8435641700620.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-7B8D9648",
+      "name_original": "SILLA TOWER NILO BLANCO",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/4407-home_default/silla-tower-nilo-blanco.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-cocina/924-silla-tower-nilo-blanco-8435641700460.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-6122C5FF",
+      "name_original": "SILLA LAIMA TERCIOPELO VERDE",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/4075-home_default/silla-laima-terciopelo-verde.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-comedor/850-silla-laima-terciopelo-verde-8435641706622.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-51179991",
+      "name_original": "SILLA ARAN GRIS",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/3836-home_default/silla-aran-gris.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-cocina/791-silla-aran-gris-8435641700743.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-864214FB",
+      "name_original": "SILLA ARAN AGUAMARINA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/3827-home_default/silla-aran-agua.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-cocina/788-silla-aran-agua-8435641700569.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-638EC3F0",
+      "name_original": "SILLA ARAN PATCHWORK",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/3914-home_default/silla-aran-patchwork.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-cocina/783-silla-aran-patchwork-8435641700163.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-9735731F",
+      "name_original": "SILLA ARAN NEGRA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/3813-home_default/silla-aran-negra.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-cocina/782-silla-aran-negra-8435641700033.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-3A40E946",
+      "name_original": "SILLA ARAN VERDE KALE",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/3810-home_default/silla-aran-kale.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-cocina/781-silla-aran-kale-8435641706714.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-8B8B69CF",
+      "name_original": "SILLA ARAN BLANCA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/3806-home_default/silla-aran-blanca.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-cocina/780-silla-aran-blanca-8435641706592.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-57195F77",
+      "name_original": "SILLA DALMAU NEGRA ASIENTO PATCHWORK",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/3911-home_default/silla-dalmau-negra-asiento-patchwork.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-cocina/779-silla-dalmau-negra-asiento-patchwork-8435641704932.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-460BAB45",
+      "name_original": "SILLA DALMAU NEGRA ASIENTO KALE",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/3792-home_default/silla-dalmau-negra-asiento-kale.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-cocina/772-silla-dalmau-negra-asiento-kale-8435641704390.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-EF2EDD1A",
+      "name_original": "SILLA DALMAU NEGRA ASIENTO NEGRO",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/3794-home_default/silla-dalmau-negra-asiento-negro.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-cocina/773-silla-dalmau-negra-asiento-negro-8435641704437.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-7C564A77",
+      "name_original": "SILLA DALMAU NEGRA ASIENTO AGUAMARINA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/3790-home_default/silla-dalmau-negra-asiento-agua.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-cocina/771-silla-dalmau-negra-asiento-agua-8435641704253.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-7C6DE7DB",
+      "name_original": "SILLA DALMAU NEGRA ASIENTO BLANCO",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/3788-home_default/silla-dalmau-negra-asiento-blanco.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-cocina/770-silla-dalmau-negra-asiento-blanco-8435641704215.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-3719C9F4",
+      "name_original": "SILLA ZEN TERCIOPELO MOSTAZA-PATA HAYA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/3446-home_default/silla-zen-terciopelo-mostaza-pata-haya.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-comedor/676-silla-zen-terciopelo-mostaza-pata-haya-8435641700217.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-543D15A8",
+      "name_original": "SILLA ZEN TERCIOPELO GRIS-PATA NEGRA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/3442-home_default/silla-zen-terciopelo-gris-pata-negra.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-comedor/675-silla-zen-terciopelo-gris-pata-negra-8435641707360.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-B4BE3EFE",
+      "name_original": "SILLA ZEN TERCIOPELO ARENA-PATA NEGRA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/3438-home_default/silla-zen-terciopelo-arena-pata-negra.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-comedor/674-silla-zen-terciopelo-arena-pata-negra-8435641707346.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-B7215CA5",
+      "name_original": "SILLA ZEN TERCIOPELO MOSTAZA-PATA NEGRA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/3306-home_default/silla-zen-terciopelo-mostaza-pata-negra.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-comedor/639-silla-zen-terciopelo-mostaza-pata-negra-8435641700040.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-6CDEEBF0",
+      "name_original": "SILLA ZEN TERCIOPELO GRIS-PATA HAYA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/3322-home_default/silla-zen-terciopelo-gris-pata-haya.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-comedor/638-silla-zen-terciopelo-gris-pata-haya-8435641707483.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-7C436BD9",
+      "name_original": "SILLA ZEN TERCIOPELO ARENA-PATA HAYA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/3318-home_default/silla-zen-terciopelo-arena-pata-haya.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-comedor/637-silla-zen-terciopelo-arena-pata-haya-8435641707469.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-01A338D7",
+      "name_original": "SILLA ALPHA VINTAGE-GRIS",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/3011-home_default/silla-alpha-vintage-gris.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-comedor/503-silla-alpha-vintage-gris-8435641703836.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-2AE9024D",
+      "name_original": "SILLA ALPHA VINTAGE-MARR\u00d3N",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/3031-home_default/silla-alpha-vintage-marron.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-comedor/502-silla-alpha-vintage-marron-8435641703737.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-B2215222",
+      "name_original": "SILA ARMONY METAL-NEGRA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/2802-home_default/sila-armony-metal-negra.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-comedor/580-sila-armony-metal-negra-8435641705441.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-E5AB9AA7",
+      "name_original": "SILLA LIS-GRIS",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/2349-home_default/silla-lis-gris.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-comedor/440-silla-lis-gris-8435641702303.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-44AF1E70",
+      "name_original": "SILLA LIS-BLANCA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/2346-home_default/silla-lis-blanca.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-cocina/439-silla-lis-blanca-8435641702204.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-C40E755D",
+      "name_original": "SILLA LIS-NEGRA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/2448-home_default/silla-lis-negra.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-comedor/441-silla-lis-negra-8435641702389.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-91645CCF",
+      "name_original": "SILLA MISS - PU PLATA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/4722-home_default/silla-miss-pu-plata-cromada.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-comedor/74-silla-miss-pu-plata-cromada-8435641703058.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-A9876098",
+      "name_original": "SILLA MISS - PU NEGRA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/4728-home_default/silla-miss-pu-negra-cromada.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-comedor/271-silla-miss-pu-negra-cromada-8435641702877.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-F8766473",
+      "name_original": "SILLA MISS - PU BLANCA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/4725-home_default/silla-miss-pu-blanca-cromada.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-comedor/272-silla-miss-pu-blanca-cromada-8435641702891.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-CEC3A09E",
+      "name_original": "SILLA MISS CAPITON\u00c9-NEGRA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/4716-home_default/silla-miss-capitone-negra.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-comedor/473-silla-miss-capitone-negra-8435641703232.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-9689BF03",
+      "name_original": "SILLA MISS CAPITON\u00c9-BLANCA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/4710-home_default/silla-miss-capitone-blanca.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-comedor/474-silla-miss-capitone-blanca-8435641703072.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-04D4EC43",
+      "name_original": "SILLA ZEN-MARR\u00d3N",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/2545-home_default/silla-zen-marron.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-comedor/469-silla-zen-marron-8435641707407.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-E85962EF",
+      "name_original": "SILLA ZEN-MARENGO",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/2548-home_default/silla-zen-marengo.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-comedor/470-silla-zen-marengo-8435641707421.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-ED0E34A4",
+      "name_original": "SILLA ZEN-GRIS",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/2542-home_default/silla-zen-gris.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-comedor/468-silla-zen-gris-8435641707384.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-A04A96BC",
+      "name_original": "SILLA LUA-BLANCA/NATURAL",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/2643-home_default/silla-lua-blancanatural.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-cocina/492-silla-lua-blancanatural-8435641700675.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-B8E1D8B8",
+      "name_original": "SILLA TULL-COFFEE",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/2427-home_default/silla-tull-coffee.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-comedor/529-silla-tull-coffee-8435641705809.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-7122331A",
+      "name_original": "SILLA TULL GRIS",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/3722-home_default/silla-tull-gris.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-comedor/747-silla-tull-gris-8435641705908.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-A742D931",
+      "name_original": "SILLA TULL-ARENA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/2444-home_default/silla-tull-arena.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-comedor/528-silla-tull-arena-8435641705724.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-C687E0FF",
+      "name_original": "SILLA TULL-AGUAMARINA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/2425-home_default/silla-tull-agua.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-comedor/527-silla-tull-agua-8435641705625.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-D7B2C438",
+      "name_original": "SILLA TULL-BLANCA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/2440-home_default/silla-tull-blanca.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-comedor/526-silla-tull-blanca-8435641705540.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-34E8EEF1",
+      "name_original": "SILLA WOOD NATURAL LACADA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/3242-home_default/silla-wood-natural.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-cocina/620-silla-wood-natural-8435641700958.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-85109B60",
+      "name_original": "SILLA METAL Y MADERA VOLT - CHOCOLATE",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/2012-home_default/silla-metal-y-madera-volt.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-cocina/353-silla-metal-y-madera-volt-8435641707452.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-F57186AE",
+      "name_original": "SILLA METAL Y MADERA VOLT-BLANCA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/6005-home_default/silla-metal-y-madera-volt-blanca.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-cocina/566-silla-metal-y-madera-volt-blanca-8435641705106.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-EC87818E",
+      "name_original": "SILLA MET\u00c1LICA VOLT - BLANCO ENVEJECIDO",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/1199-home_default/silla-volt-desgastada-blanca.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-cocina/223-silla-volt-desgastada-blanca-8435641707032.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-2E41B20C",
+      "name_original": "SILLA MET\u00c1LICA VOLT - BLANCA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/1168-home_default/silla-volt-blanca.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-cocina/217-silla-volt-blanca-8435641707018.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-073B2826",
+      "name_original": "SILLA MET\u00c1LICA VOLT - ROJA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/1184-home_default/silla-volt-roja.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-cocina/220-silla-volt-roja-8435641706998.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-C105769B",
+      "name_original": "SILLA MET\u00c1LICA VOLT - NEGRO-ORO ENVEJECIDO",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/1194-home_default/silla-volt-desgastada-negra-.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-cocina/222-silla-volt-desgastada-negra--8435641707094.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-70E50BAA",
+      "name_original": "SILLA MET\u00c1LICA VOLT - NEGRA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/1179-home_default/silla-volt-negra.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-cocina/219-silla-volt-negra-8435641706974.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-C33ADEB6",
+      "name_original": "SILLA MET\u00c1LICA VOLT - NATURAL ENVEJECIDO",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/1210-home_default/silla-volt-desgastada-metalica.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-cocina/225-silla-volt-desgastada-metalica-8435641707070.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-36E4148F",
+      "name_original": "SILLA MET\u00c1LICA VOLT - VERDE",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/2375-home_default/silla-volt-lima.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-cocina/221-silla-volt-lima-8435641706950.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-41782C4B",
+      "name_original": "SILLA PICASSO - ARENA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/2158-home_default/silla-picasso-arena.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-cocina/391-silla-picasso-arena-8435641704628.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-591AE59C",
+      "name_original": "SILLA PICASSO - AGUAMARINA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/2155-home_default/silla-picasso-aguamarina.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-cocina/390-silla-picasso-aguamarina-8435641704741.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-190EAC4D",
+      "name_original": "SILLA PICASSO - GRIS",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/2140-home_default/silla-picasso-gris.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-cocina/385-silla-picasso-gris-8435641704208.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-078609FE",
+      "name_original": "SILLA PICASSO - NEGRA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/1040-home_default/silla-picasso-negra.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-cocina/193-silla-picasso-negra-8435641703607.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-D25C634D",
+      "name_original": "SILLA PICASSO - BLANCA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/1043-home_default/silla-picasso-blanca.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-cocina/194-silla-picasso-blanca-8435641703782.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-40BD5B81",
+      "name_original": "SILLA DAL\u00cd - ARENA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/1864-home_default/silla-dali-arena.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-cocina/332-silla-dali-arena-8435641706912.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-71457A4D",
+      "name_original": "SILLA DAL\u00cd - AGUAMARINA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/1871-home_default/silla-dali-aguamarina.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-cocina/333-silla-dali-aguamarina-8435641706936.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-4BE2805B",
+      "name_original": "SILLA DAL\u00cd - GRIS",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/1590-home_default/silla-dali-gris.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-cocina/251-silla-dali-gris-8435641704680.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-0D3E7B7B",
+      "name_original": "SILLA DAL\u00cd - BLANCA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/1008-home_default/silla-dali-blanca.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-cocina/185-silla-dali-blanca-8435641701801.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-05DB3C47",
+      "name_original": "SILLA DAL\u00cd - NEGRA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/1940-home_default/silla-dali-negra.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-cocina/186-silla-dali-negra-8435641701986.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-52950BB4",
+      "name_original": "SILLA DAL\u00cd - PATCHWORK",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/1289-home_default/silla-dali-patchwork.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-comedor/244-silla-dali-patchwork-8435641704321.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-3891F96D",
+      "name_original": "SILLA DAL\u00cd CAPITON\u00c9 NEGRA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/3038-home_default/silla-dali-capitone-negra.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-comedor/608-silla-dali-capitone-negra-8435641700088.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-ECEE4A1D",
+      "name_original": "SILLA DAL\u00cd CAPITON\u00c9 BLANCA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/3033-home_default/silla-dali-capitone-blanca.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-comedor/607-silla-dali-capitone-blanca-8435641700118.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-496FBE73",
+      "name_original": "SILLA MEGAN - AGUAMARINA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/2134-home_default/silla-megan-agua.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-cocina/383-silla-megan-agua-8435641700248.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-5733C37B",
+      "name_original": "SILLA MEGAN - NEGRA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/1633-home_default/silla-megan-negra.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-comedor/255-silla-megan-negra-8435641706301.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-50382DD3",
+      "name_original": "SILLA MEGAN - ROSA PALO",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/1631-home_default/silla-megan-rosa-palo.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-comedor/252-silla-megan-rosa-palo-8435641705762.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-E8514696",
+      "name_original": "SILLA MEGAN - BEIGE",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/3931-home_default/silla-megan-beige.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-comedor/250-silla-megan-beige-8435641705045.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-BE40CB42",
+      "name_original": "SILLA MEGAN - BLANCA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/1372-home_default/silla-megan-blanca.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-comedor/248-silla-megan-blanca-8435641703966.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-4178F01F",
+      "name_original": "SILLA MEGAN - GRIS",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/1596-home_default/silla-megan-gris.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-comedor/249-silla-megan-gris-8435641704864.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-614DADD1",
+      "name_original": "SILLA BOB ARENA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/2438-home_default/silla-bob-marron-claro.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-cocina/521-silla-bob-marron-claro-8435641704901.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-EF98525B",
+      "name_original": "SILLA BOB-ANTRACITA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/2701-home_default/silla-bob-antracita.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-cocina/522-silla-bob-antracita-8435641705007.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-8C41990D",
+      "name_original": "SILLA BOB-NEGRA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/2435-home_default/silla-bob-negra.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-cocina/520-silla-bob-negra-8435641704826.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-49E27FFF",
+      "name_original": "SILLA BOB-AGUAMARINA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/2432-home_default/silla-bob-agua.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-comedor/519-silla-bob-agua-8435641704727.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-405AADF9",
+      "name_original": "SILLA BOB-BLANCA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/2428-home_default/silla-bob-blanca.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-comedor/518-silla-bob-blanca-8435641704642.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-E857D98C",
+      "name_original": "SILLA STYLE-BLANCA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/2681-home_default/silla-style-blanca.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-comedor/516-silla-style-blanca-8435641704369.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-B132EAF6",
+      "name_original": "SILLA MIX NEGRA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/3104-home_default/silla-mix-negra.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-comedor/609-silla-mix-negra-8435641700439.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-52019420",
+      "name_original": "SILLA MIX AGUAMARINA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/3144-home_default/silla-mix-agua.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-cocina/617-silla-mix-agua-8435641701153.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-36AC083C",
+      "name_original": "SILLA MIX BEIGE",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/3938-home_default/silla-mix-beige.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-cocina/615-silla-mix-beige-8435641700972.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-526C0522",
+      "name_original": "SILLA MIX ROSA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/3124-home_default/silla-mix-rosa.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-cocina/613-silla-mix-rosa-8435641700798.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-6F15E704",
+      "name_original": "SILLA MIX GRIS",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/3139-home_default/silla-mix-gris.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-cocina/616-silla-mix-gris-8435641701016.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-1CC1E8E9",
+      "name_original": "SILLA MIX BLANCA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/3070-home_default/silla-mix-blanca.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-cocina/600-silla-mix-blanca-8435641703485.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-1604130F",
+      "name_original": "SILLA LIS MIX-BLANCA-NEGRA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/2963-home_default/silla-lis-mix-blanca-negra.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-comedor/568-silla-lis-mix-blanca-negra-8435641705984.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-B9CCC667",
+      "name_original": "SILLA LIS MIX-GRIS-NEGRA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/2968-home_default/silla-lis-mix-gris-negra.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-comedor/573-silla-lis-mix-gris-negra-8435641706448.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-50C372FC",
+      "name_original": "SILLA LIS MIX AGUAMARINA-NEGRA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/2971-home_default/silla-lis-mix-agua-negra.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-comedor/576-silla-lis-mix-agua-negra-8435641706745.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-87D5B46A",
+      "name_original": "SILLA LIS MIX NEGRO - BLANCO",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/3767-home_default/silla-lis-mix-negro-blanco.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-comedor/797-silla-lis-mix-negro-blanco-8435641701962.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-E5905F0E",
+      "name_original": "SILLA LIS MIX AGUA - BLANCA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/3775-home_default/silla-lis-mix-agua-blanca.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-comedor/805-silla-lis-mix-agua-blanca-8435641702686.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-EB6C36C2",
+      "name_original": "SILLA LIS MIX GRIS - BLANCO",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/3772-home_default/silla-lis-mix-gris-blanco.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-comedor/802-silla-lis-mix-gris-blanco-8435641702365.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-D3BB097E",
+      "name_original": "SILLA VELVET TERCIOPELO ARENA PATA HAYA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/4024-home_default/silla-velvet-terciopelo-arena.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-comedor/830-silla-velvet-terciopelo-arena-8435641700194.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-B92F82A1",
+      "name_original": "SILLA VELVET TERCIOPELO MOSTAZA PATA HAYA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/4038-home_default/silla-velvet-terciopelo-mostaza-pata-haya.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-comedor/863-silla-velvet-terciopelo-mostaza-pata-haya-8435641702839.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-77E7B553",
+      "name_original": "SILLA VELVET TERCIOPELO VERDE PATA HAYA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/4050-home_default/silla-velvet-terciopelo-verde-pata-haya.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-comedor/866-silla-velvet-terciopelo-verde-pata-haya-8435641703119.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-95D106F0",
+      "name_original": "SILLA VELVET TERCIOPELO GRIS PATA HAYA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/4042-home_default/silla-velvet-terciopelo-gris-pata-haya.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-comedor/864-silla-velvet-terciopelo-gris-pata-haya-8435641702938.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-A7AE6D22",
+      "name_original": "SILLA VELVET TERCIOPELO GRIS PATA NEGRA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/4016-home_default/silla-velvet-terciopelo-gris.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-comedor/829-silla-velvet-terciopelo-gris-8435641700170.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-8E6E854C",
+      "name_original": "SILLA VELVET TERCIOPELO ROSA PATA NEGRA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/4020-home_default/silla-velvet-terciopelo-rosa.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-comedor/827-silla-velvet-terciopelo-rosa-8435641706455.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-C9E27E24",
+      "name_original": "SILLA VELVET TERCIOPELO ARENA PATA NEGRA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/4046-home_default/silla-velvet-terciopelo-arena-pata-negra.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-comedor/865-silla-velvet-terciopelo-arena-pata-negra-8435641703010.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-315E64EC",
+      "name_original": "SILLA VELVET TERCIOPELO VERDE PATA NEGRA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/4012-home_default/silla-velvet-terciopelo-.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-comedor/831-silla-velvet-terciopelo--8435641700354.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-292CCDDA",
+      "name_original": "SILLA NIKI TERCIOPELO GRIS",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/4004-home_default/silla-niki-terciopelo-gris.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-comedor/836-silla-niki-terciopelo-gris-8435641706332.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-8812739E",
+      "name_original": "SILLA NIKI TERCIOPELO ARENA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/3991-home_default/silla-niki-terciopelo-arena.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-comedor/837-silla-niki-terciopelo-arena-8435641700378.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-B01E942B",
+      "name_original": "SILLA LAIMA TERCIOPELO NEGRO",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/4073-home_default/silla-laima-terciopelo-negro.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-comedor/851-silla-laima-terciopelo-negro-8435641700552.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-1CD16098",
+      "name_original": "SILL\u00d3N MARCELO CON RAT\u00c1N NATURAL",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/4864-home_default/silla-marcelo-natural-rattan-natural.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-comedor/894-silla-marcelo-natural-rattan-natural-8435641704048.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-B43B714B",
+      "name_original": "SILL\u00d3N MARCELO NEGRO CON RAT\u00c1N NATURAL",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/4860-home_default/sillon-marcelo-negro-rattan-natural.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-comedor/893-sillon-marcelo-negro-rattan-natural-8435641703881.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-C7AF2E16",
+      "name_original": "SILLA MARCELO CON RAT\u00c1N NATURAL",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/4856-home_default/silla-marcelo-natural-rattan-natural.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-comedor/892-silla-marcelo-natural-rattan-natural-8435641703867.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-D29AE439",
+      "name_original": "SILLA MARCELO NEGRA CON RAT\u00c1N NATURAL",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/4849-home_default/silla-marcelo-negra-rattan-natural.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-comedor/891-silla-marcelo-negra-rattan-natural-8435641703706.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-AD0CE70D",
+      "name_original": "SILLA CALP MADERA NATURAL PU MARRON",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/4247-home_default/silla-altea-madera-negra-rattan-natural.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-comedor/890-silla-altea-madera-negra-rattan-natural-8435641703683.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-83D9F460",
+      "name_original": "SILLA ALTEA MADERA NEGRA CON RATAN NATURAL",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/4242-home_default/silla-altea-madera-negra-rattan-natural.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-comedor/889-silla-altea-madera-negra-rattan-natural-8435641703522.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-99547E5C",
+      "name_original": "SILLA ALTEA NATURAL",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/3522-home_default/silla-altea-.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-comedor/647-silla-altea--8435641701375.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-EDA00F3F",
+      "name_original": "SILLON ABEL MADERA CON RATAN NATURAL",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/4205-home_default/sillon-abel-madera-natural-rattan-natural.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-madera/888-sillon-abel-madera-natural-rattan-natural-8435641703508.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-791FBCBE",
+      "name_original": "SILLON ABEL MADERA NEGRA CON RATAN NATURAL",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/4200-home_default/sillon-abel-madera-negra-rattan-natural.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-madera/887-sillon-abel-madera-negra-rattan-natural-8435641703348.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-8D1F642E",
+      "name_original": "SILLA ABEL MADERA NATURAL CON RATAN",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/4195-home_default/silla-abel-madera-natural-rattan-.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-madera/886-silla-abel-madera-natural-rattan--8435641703324.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-9FBCC8ED",
+      "name_original": "SILLA ABEL NEGRA CON RATAN NATURAL",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/4240-home_default/silla-abel-madera-negra-en-rattan-natural.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-madera/885-silla-abel-madera-negra-en-rattan-natural-8435641703164.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-88C5FBFB",
+      "name_original": "SILLA ECLIPSE TERCIOPELO AZUL",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/4288-home_default/silla-eclipse-terciopelo-verde.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-comedor/897-silla-eclipse-terciopelo-verde-8435641703379.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-786DF530",
+      "name_original": "SILLA WIRE ORO - BLANCA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/4334-home_default/silla-wire-oro-blanca.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-comedor/915-silla-wire-oro-blanca-8435641701733.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-74DA9149",
+      "name_original": "SILLA WIRE NEGRA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/4338-home_default/silla-wire-negra.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-comedor/916-silla-wire-negra-8435641701696.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-1138D5AF",
+      "name_original": "SILLA WIRE",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/3529-home_default/silla-wire.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-comedor/649-silla-wire-8435641701559.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-EA365114",
+      "name_original": "SILLA BERTOIA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/3531-home_default/silla-bertonia.jpg"
+      ],
+      "product_url": "https://casathai.es/es/sillas-de-cocina/648-silla-bertonia-8435641701511.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-15D17CEF",
+      "name_original": "SILL\u00d3N MEGAN - NEGRO",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/1985-home_default/sillon-megan-negro.jpg"
+      ],
+      "product_url": "https://casathai.es/es/liquidacion/349-sillon-megan-negro-8435641701689.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-E098B3D7",
+      "name_original": "SILL\u00d3N MEGAN-ROSA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/2857-home_default/sillon-megan-rosa.jpg"
+      ],
+      "product_url": "https://casathai.es/es/liquidacion/531-sillon-megan-rosa-8435641703126.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-6A9A6287",
+      "name_original": "SILL\u00d3N MARCELO RECTO RAT\u00c1N NATURAL",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/4996-home_default/sillon-marcelo-recto-ratan-natural.jpg"
+      ],
+      "product_url": "https://casathai.es/es/liquidacion/1027-sillon-marcelo-recto-ratan-natural-8435641707520.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-A3293D0E",
+      "name_original": "SILL\u00d3N MARCELO RECTO NEGRO RAT\u00c1N NATURAL",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/4985-home_default/sillon-marcelo-recto-negro-ratan-natural.jpg"
+      ],
+      "product_url": "https://casathai.es/es/liquidacion/1026-sillon-marcelo-recto-negro-ratan-natural-8435641707513.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-DC91F877",
+      "name_original": "SILLA MARCELO RECTA RAT\u00c1N NATURAL",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/4978-home_default/silla-marcelo-recta-ratan-natural.jpg"
+      ],
+      "product_url": "https://casathai.es/es/liquidacion/1025-silla-marcelo-recta-ratan-natural-8435641707506.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-282E3ED1",
+      "name_original": "SILLA MARCELO RECTA NEGRA RAT\u00c1N NATURAL",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/4973-home_default/silla-marcelo-recta-negra-ratan-natural.jpg"
+      ],
+      "product_url": "https://casathai.es/es/liquidacion/1024-silla-marcelo-recta-negra-ratan-natural-8435641707490.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-0BC97F1B",
+      "name_original": "SILLA MARCELO NATURAL PATA ORO CON RAT\u00c1N NATURAL",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/4995-home_default/silla-marcelo-natural-pata-oro-con-ratan-natural.jpg"
+      ],
+      "product_url": "https://casathai.es/es/liquidacion/1023-silla-marcelo-natural-pata-oro-con-ratan-natural.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-43F7B291",
+      "name_original": "SILLA MARCELO CON RAT\u00c1N PL",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/4945-home_default/silla-marcelo-natural-rattan-pl.jpg"
+      ],
+      "product_url": "https://casathai.es/es/liquidacion/1000-silla-marcelo-natural-rattan-pl-8435641703690.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-19660209",
+      "name_original": "SILL\u00d3N MARCELO NEGRO CON RAT\u00c1N PL",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/4992-home_default/sillon-marcelo-negro-rattan-natural.jpg"
+      ],
+      "product_url": "https://casathai.es/es/liquidacion/1001-sillon-marcelo-negro-rattan-natural-8435641703874.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-A3D217C5",
+      "name_original": "SILL\u00d3N MARCELO NATURAL CON RAT\u00c1N PL",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/4994-home_default/silla-marcelo-natural-rattan-pl.jpg"
+      ],
+      "product_url": "https://casathai.es/es/liquidacion/1002-silla-marcelo-natural-rattan-pl-8435641704055.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-1B8952EB",
+      "name_original": "SILLA MARCELO NEGRA CON RAT\u00c1N PL",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/4940-home_default/silla-marcelo-negra-rattan-natural.jpg"
+      ],
+      "product_url": "https://casathai.es/es/liquidacion/999-silla-marcelo-negra-rattan-natural-8435641703515.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-8E3B7601",
+      "name_original": "SILLA ANNA-CAPUCCINO",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/2901-home_default/silla-anna-capuccino.jpg"
+      ],
+      "product_url": "https://casathai.es/es/liquidacion/480-silla-anna-capuccino-8435641702372.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-499620EA",
+      "name_original": "SILLA DAL\u00cd TAPIZADA LISA GRIS",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/3492-home_default/silla-dali-tapizada-lisa-gris.jpg"
+      ],
+      "product_url": "https://casathai.es/es/liquidacion/685-silla-dali-tapizada-lisa-gris.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-370DD854",
+      "name_original": "SILLA DAL\u00cd TAPIZADA LISA AZUL",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/3489-home_default/silla-dali-tapizada-lisa-azul.jpg"
+      ],
+      "product_url": "https://casathai.es/es/liquidacion/651-silla-dali-tapizada-lisa-azul.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-57B0C7E7",
+      "name_original": "SILLA ADDA - BLANCA",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/1806-home_default/silla-adda-blanca.jpg"
+      ],
+      "product_url": "https://casathai.es/es/liquidacion/318-silla-adda-blanca-8435641701320.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-F2036C7A",
+      "name_original": "SILLA MARCELO NEGRA PATA ORO CON RAT\u00c1N NATURAL",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/4963-home_default/silla-marcelo-negra-pata-oro-con-ratan-natural.jpg"
+      ],
+      "product_url": "https://casathai.es/es/liquidacion/1022-silla-marcelo-negra-pata-oro-con-ratan-natural.html",
+      "source": "scraper"
+    },
+    {
+      "sku_adquify": "ADQ-CA-3731FFC6",
+      "name_original": "SILLA MEGAN VIP TERCIOPELO AMARILLO",
+      "price_supplier": 0.0,
+      "images": [
+        "https://casathai.es/4304-home_default/silla-megan-vip-terciopelo-amarillo.jpg"
+      ],
+      "product_url": "https://casathai.es/es/liquidacion/909-silla-megan-vip-terciopelo-amarillo-8435641701917.html",
+      "source": "scraper"
+    }
+  ]
+}

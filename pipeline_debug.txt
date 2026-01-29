@@ -1,0 +1,6 @@
+Traceback (most recent call last):
+  File "C:\Treball\1.Negocios\Adquify\adquify-engine\run_pipeline.py", line 3, in <module>
+    from harvester.spiders.distrigal import DistrigalHarvester
+  File "C:\Treball\1.Negocios\Adquify\adquify-engine\harvester\spiders\distrigal.py", line 1, in <module>
+    from .base import BaseHarvester
+ModuleNotFoundError: No module named 'harvester.spiders.base'

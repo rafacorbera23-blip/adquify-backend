@@ -1,0 +1,26 @@
+[INFO] Initializing Database Tables...
+[OK] Database initialized successfully.
+
+[START] Starting Harvester Pipeline...
+[distrigal] Navigating to login...
+[distrigal] Injecting credentials...
+
+[ERROR] Harvester failed: Page.fill: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("input[name='log']")
+
+
+[START] Starting Sklum Harvester...
+[sklum] Navigating to home...
+   [INFO] Cookies accepted.
+[sklum] Scraping Category: sofas (https://www.sklum.com/es/633-comprar-sofas)
+   [PAGE] Found 0 items.
+[sklum] Extracted 0 total items.
+
+[SAVE] Saving 0 Sklum items...
+
+[DONE] Pipeline Completed! Data is in 'adquify_core.db'
+
+[INFO] Running Legacy Import to ensure data availability...
+Found 1 items in legacy JSON.
+Imported 0 products from legacy JSON.

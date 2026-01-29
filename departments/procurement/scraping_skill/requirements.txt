@@ -1,0 +1,8 @@
+playwright
+playwright-stealth
+beautifulsoup4
+pydantic
+pandas
+aiohttp
+nest_asyncio
+google-generativeai

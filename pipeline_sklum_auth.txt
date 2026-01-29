@@ -1,0 +1,87 @@
+[INFO] Initializing Database Tables...
+[OK] Database initialized successfully.
+
+[START] Starting Harvester Pipeline...
+[distrigal] Navigating to login...
+[distrigal] Injecting credentials...
+
+[ERROR] Harvester failed: Page.fill: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("input[name='log']")
+
+
+[START] Starting Sklum Harvester...
+[sklum] Navigating to Login...
+   [INFO] Cookies accepted.
+[sklum] Injecting Credentials for admin@gpacontract.com...
+   [ERROR] Login failed: Page.fill: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("input[name='email']")
+
+[sklum] Scraping Category: sofas (https://www.sklum.com/es/633-comprar-sofas)
+   [PAGE] Found 0 items.
+[sklum] Scraping Category: sofa-2-plazas (https://www.sklum.com/es/639-comprar-sofa-2-plazas)
+   [PAGE] Found 0 items.
+[sklum] Scraping Category: sofa-3-plazas (https://www.sklum.com/es/640-comprar-sofa-3-plazas)
+   [PAGE] Found 0 items.
+[sklum] Scraping Category: sofas-modulares-2-plazas (https://www.sklum.com/es/641-comprar-sofas-modulares-2-plazas)
+   [PAGE] Found 0 items.
+[sklum] Scraping Category: sofas-modulares-3-plazas (https://www.sklum.com/es/642-comprar-sofas-modulares-3-plazas)
+   [PAGE] Found 0 items.
+[sklum] Scraping Category: sofa-cama (https://www.sklum.com/es/645-comprar-sofa-cama)
+   [PAGE] Found 0 items.
+[sklum] Scraping Category: chaise-longues (https://www.sklum.com/es/646-comprar-chaise-longues)
+   [PAGE] Found 0 items.
+[sklum] Scraping Category: sillas (https://www.sklum.com/es/543-comprar-sillas)
+   [PAGE] Found 0 items.
+[sklum] Scraping Category: sillas-de-comedor (https://www.sklum.com/es/544-comprar-sillas-de-comedor)
+   [PAGE] Found 0 items.
+[sklum] Scraping Category: sillas-oficina (https://www.sklum.com/es/545-comprar-sillas-oficina)
+   [PAGE] Found 0 items.
+[sklum] Scraping Category: taburetes-altos (https://www.sklum.com/es/553-comprar-taburetes-altos)
+   [PAGE] Found 0 items.
+[sklum] Scraping Category: sillones (https://www.sklum.com/es/649-comprar-sillones)
+   [PAGE] Found 0 items.
+[sklum] Scraping Category: mesas (https://www.sklum.com/es/542-comprar-mesas)
+   [PAGE] Found 0 items.
+[sklum] Scraping Category: mesas-comedor (https://www.sklum.com/es/555-comprar-mesas-comedor)
+   [PAGE] Found 0 items.
+[sklum] Scraping Category: mesas-de-centro (https://www.sklum.com/es/556-comprar-mesas-de-centro)
+   [PAGE] Found 0 items.
+[sklum] Scraping Category: aparadores (https://www.sklum.com/es/620-comprar-aparadores)
+   [PAGE] Found 0 items.
+[sklum] Scraping Category: muebles-tv (https://www.sklum.com/es/623-comprar-muebles-tv)
+   [PAGE] Found 0 items.
+[sklum] Scraping Category: dormitorio (https://www.sklum.com/es/527-comprar-dormitorio)
+   [PAGE] Found 0 items.
+[sklum] Scraping Category: camas (https://www.sklum.com/es/560-comprar-camas)
+   [PAGE] Found 0 items.
+[sklum] Scraping Category: cabeceros (https://www.sklum.com/es/561-comprar-cabeceros)
+   [PAGE] Found 0 items.
+[sklum] Scraping Category: iluminacion (https://www.sklum.com/es/537-comprar-iluminacion)
+   [PAGE] Found 0 items.
+[sklum] Scraping Category: lamparas-de-techo (https://www.sklum.com/es/566-comprar-lamparas-de-techo)
+   [PAGE] Found 0 items.
+[sklum] Scraping Category: decoracion (https://www.sklum.com/es/538-comprar-decoracion)
+   [PAGE] Found 0 items.
+[sklum] Scraping Category: espejos (https://www.sklum.com/es/571-comprar-espejos)
+   [PAGE] Found 0 items.
+[sklum] Scraping Category: alfombras (https://www.sklum.com/es/572-comprar-alfombras)
+   [PAGE] Found 0 items.
+[sklum] Scraping Category: exterior (https://www.sklum.com/es/526-comprar-exterior)
+   [PAGE] Found 0 items.
+[sklum] Scraping Category: sofas-de-exterior (https://www.sklum.com/es/578-comprar-sofas-de-exterior)
+   [PAGE] Found 0 items.
+[sklum] Scraping Category: sillas-de-exterior (https://www.sklum.com/es/579-comprar-sillas-de-exterior)
+   [PAGE] Found 0 items.
+[sklum] Scraping Category: mesas-de-exterior (https://www.sklum.com/es/580-comprar-mesas-de-exterior)
+   [PAGE] Found 0 items.
+[sklum] Extracted 0 total items.
+
+[SAVE] Saving 0 Sklum items...
+
+[DONE] Pipeline Completed! Data is in 'adquify_core.db'
+
+[INFO] Running Legacy Import to ensure data availability...
+Found 1 items in legacy JSON.
+Imported 0 products from legacy JSON.

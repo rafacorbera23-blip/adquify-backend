@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment variables
+.env
+
+# Large data files
+raw_scraping_results.json
+data/raw/
+data/generated_pdfs/
+
+# OS generated files
+.DS_Store
+Thumbs.db

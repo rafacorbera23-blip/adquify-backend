@@ -1,0 +1,2082 @@
+{
+  "supplier": "BAMBO",
+  "date": "20260115_185151",
+  "products": [
+    {
+      "sku_adquify": "BAM-REFERENCIA:118005-NEG",
+      "name_original": "SILLA AITANA Negra rattan sintetico hierro 50x51x81h",
+      "price_supplier": 50518145.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:118005-TUR",
+      "name_original": "SILLA AITANA Turquesa rattan sintetico hierro 50x51x81h",
+      "price_supplier": 50518145.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:122001-BLA",
+      "name_original": "SILLON MONACO alum/sintec Blanco 55x60x78h",
+      "price_supplier": 5560784565.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:122001-GRE",
+      "name_original": "SILLON MONACO alum/sintec Gris 55x60x78h",
+      "price_supplier": 5560784565.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:122068-BLA",
+      "name_original": "SILLON LUCCA Acero/sintec Blanco 53x60x80h",
+      "price_supplier": 5462804364.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:122068-GRE",
+      "name_original": "SILLON LUCCA Acero/sintec Gris 53x60x80h",
+      "price_supplier": 5462804364.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:122068-NAJ",
+      "name_original": "SILLON LUCCA Acero/sintec Terracota 53x60x80h",
+      "price_supplier": 5462804364.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:122068-VER",
+      "name_original": "SILLON LUCCA Acero/sintec Verde 53x60x80h",
+      "price_supplier": 5462804364.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:122090-BLA",
+      "name_original": "SILLON FERROL Alum/sintec Blanco 55x60x74h",
+      "price_supplier": 5560744666.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:122090-GRE",
+      "name_original": "SILLON FERROL Alum/sintec Gris 55x60x74h",
+      "price_supplier": 5560744666.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:122090-VER",
+      "name_original": "SILLON FERROL Alum/sintec Verde 55x60x74h",
+      "price_supplier": 566174.5,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:950890-TUR",
+      "name_original": "SILLA SIENA Alum/sintec Turquesa/Blanco 55x52x78",
+      "price_supplier": 555278.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:950900-AZU",
+      "name_original": "SILLON RIVOLI Alum/sintec Azul/Blanco 56x58x80",
+      "price_supplier": 5658804570.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:950900-CAF",
+      "name_original": "SILLON RIVOLI Alum/sintec Cafe/Crema 56x58x80h",
+      "price_supplier": 5658804570.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:950900-ROJ",
+      "name_original": "SILLON RIVOLI Alum/sintec Rojo/Crema 56x58x80h",
+      "price_supplier": 5658804570.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:950900-VER",
+      "name_original": "SILLON RIVOLI Alum/sintec Verde/Blanco 56x58x80h",
+      "price_supplier": 5658804570.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:950905-BLA",
+      "name_original": "SILLA RIVOLI Alum/sintec Blanco/Gris 45x52x89h",
+      "price_supplier": 45528945.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:950905-NEG",
+      "name_original": "SILLA RIVOLI Alum/sintec Negro 45x52x89h",
+      "price_supplier": 45528945.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:950905-ROJ",
+      "name_original": "SILLA RIVOLI Alum/sintec Rojo/Crema 45x52x89h",
+      "price_supplier": 45528945.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:950906",
+      "name_original": "SILLON RIGA Alum/sintec c/Coj\u00edn 57x63x77h",
+      "price_supplier": 5763774267.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:950907",
+      "name_original": "SILLON BOSTON Alum. Tiras c/Cojin 55x64x80h",
+      "price_supplier": 5564804770.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:950907-RAT",
+      "name_original": "SILLON BOSTON Alum. Rattan c/Cojin 55x64x80h",
+      "price_supplier": 5564804770.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:950908-DOR",
+      "name_original": "SILLON RODEN Nat,texti Arena Dorada 57x57x83h",
+      "price_supplier": 5757834666.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:950908-NEG",
+      "name_original": "SILLON RODEN Alum/textile Negro 57x57x83h",
+      "price_supplier": 5757834666.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:950910",
+      "name_original": "SILLON LONDRES Brazos alum. c/Coj\u00edn 56x61x84h",
+      "price_supplier": 5661844265.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:950911-BLA",
+      "name_original": "SILLON AMELIE alum/syntetic Blanco/Cafe 57x63x95h",
+      "price_supplier": 5763954566.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:950912-BLA",
+      "name_original": "SILLA AMELIE alum/syntetic Blanco/Cafe 46x55x95h",
+      "price_supplier": 46559543.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:950913-DOR",
+      "name_original": "SILLA MICHELLE Alum/tex. Arena dorada 42x52x85h",
+      "price_supplier": 42528544.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:950913-NEG",
+      "name_original": "SILLA MICHELLE Alum/tex. Negro 42x52x85h",
+      "price_supplier": 42528544.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:950913-NGR",
+      "name_original": "SILLA MICHELLE Alum/tex. Negro 42x52x85h",
+      "price_supplier": 42528544.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:950914-BLA",
+      "name_original": "SILLON BAHIA alum/sintec Blanco/Gris 54x57x81h",
+      "price_supplier": 5457814166.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:950914-NEG",
+      "name_original": "SILLON BAHIA alum/sintec Negro/Gris 54x57x81h",
+      "price_supplier": 5457814166.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:950915-SOF",
+      "name_original": "SILLON DORIS alum 57x60x80h",
+      "price_supplier": 5760804467.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:950918-BLA",
+      "name_original": "SILLON NANTES aluminio, tej. sint\u00e9tico BLANCO 53x60x88h",
+      "price_supplier": 5360884364.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:950918-NEG",
+      "name_original": "SILLON NANTES aluminio, tej. sint\u00e9tico NEGRO 53x60x88h",
+      "price_supplier": 5360884364.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:950939-BLA",
+      "name_original": "SILLON RODAS BLANCO alum/syntet. Blanco/Gris 57x57x83h",
+      "price_supplier": 5757834666.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:114015",
+      "name_original": "SILLON ROCK rattan Colores hierro 52x61x79h",
+      "price_supplier": 5261794372.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:114021",
+      "name_original": "SILLON VERONA rattan Rosa/Gris 57x62x90h",
+      "price_supplier": 5762904568.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:114022-NAT",
+      "name_original": "SILLON MENORCA 68x61x81h.",
+      "price_supplier": 6861814058.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:114079-NAT",
+      "name_original": "SILLON ROMBO Rattan Nat c/cojin 51x57x95h",
+      "price_supplier": 5157954563.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:118007",
+      "name_original": "SILLA PENELOPE Rattan natural hierro 46x57x84h",
+      "price_supplier": 46578448.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:905044-NAT",
+      "name_original": "SILLON SOPHIE Natural 55x58x78h",
+      "price_supplier": 5558784567.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:905046-NOG",
+      "name_original": "SILLON SOPHIE Rattan Patina 55x58x78h",
+      "price_supplier": 5558744567.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:905079",
+      "name_original": "SILLON STONIA patas blancas 57x65x81h",
+      "price_supplier": 576581.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:905080-AZL",
+      "name_original": "SILLON PE\u00d1ISCOLA Azul 56x60x81h",
+      "price_supplier": 5660814463.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:905080-BLA",
+      "name_original": "SILLON PE\u00d1ISCOLA Blanco 56x60x81h",
+      "price_supplier": 5660814463.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:905080-NAT",
+      "name_original": "SILLON PE\u00d1ISCOLA Natural 56x60x81h",
+      "price_supplier": 5660814463.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:905080-ROJ",
+      "name_original": "SILLON PE\u00d1ISCOLA Rojo 56x60x81h",
+      "price_supplier": 5660814463.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:905086-NAT",
+      "name_original": "SILLON CURVAS Natural 66x78x79h",
+      "price_supplier": 667879.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:920074-GRE",
+      "name_original": "SILLA BERTA Grey  patas nat/gris 46x49x89h",
+      "price_supplier": 46498948.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:920079-NAT",
+      "name_original": "SILLA ROMBO Rattan natural c/ cojin",
+      "price_supplier": 44609045.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:920090",
+      "name_original": "SILLON MANILA Rattan 76x53x82h",
+      "price_supplier": 7653824277.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:920500-BOU",
+      "name_original": "SILLON DENIS Rattan BOURDEOS",
+      "price_supplier": 585486.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:920502-AZU",
+      "name_original": "SILLA NICOLE Rattan Azul & Beige 51x58x85h",
+      "price_supplier": 51588545.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:920502-BOU",
+      "name_original": "SILLA NICOLE Rattan Burdeos & Beige 51x58x85h",
+      "price_supplier": 51588545.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:920502-CAF",
+      "name_original": "SILLA NICOLE Rattan Cafe & Beige 51x58x85h",
+      "price_supplier": 51588545.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:920502-VER",
+      "name_original": "SILLA NICOLE Rattan Verde & Beige 51x58x85h",
+      "price_supplier": 51588545.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:920506-NAT",
+      "name_original": "SILLON MORFEO Rattan Natural 57x68x88h",
+      "price_supplier": 5768884664.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:911071-NEG",
+      "name_original": "SILLA PIEL Negro 45x60x97h",
+      "price_supplier": 456097.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:911103N",
+      "name_original": "SILLA LUCIA Negra acero inox,ecopiel 48x59x93h",
+      "price_supplier": 485993.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:911509-BLA",
+      "name_original": "SILLA GRETA Ecopiel Blanco 55x44x84h",
+      "price_supplier": 55448445.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:911553-CML",
+      "name_original": "SILLA INDIANA Camel 47x45x85h.",
+      "price_supplier": 474585.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:911555-NEG",
+      "name_original": "SILLA CAMPBELL Negra 46x59x86h",
+      "price_supplier": 465986.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:911597-LIN",
+      "name_original": "SILLA CAPITON\u00c9 Tela 52x63x99h",
+      "price_supplier": 526399.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:940931-BLA",
+      "name_original": "SILLA PARIS C/ bordon Blanco Roto 50x57x102h",
+      "price_supplier": 5057102.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:940934-NOG",
+      "name_original": "SILLA REJILLA Nogal 46x41x95h",
+      "price_supplier": 46419547.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:941002",
+      "name_original": "SILLA ROCOC\u00d3 negra 48x44x96h",
+      "price_supplier": 48449648.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:941003",
+      "name_original": "SILLA ROCOC\u00d3 Tela Denim 48x44x96h",
+      "price_supplier": 48449648.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:950537",
+      "name_original": "SILLON OXFORD Caf\u00e9 55x58x79h",
+      "price_supplier": 5558794670.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:950562-CAF",
+      "name_original": "SILLA NORA Boucl\u00e9 54x58x79h",
+      "price_supplier": 54587945.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:116001",
+      "name_original": "SILLON TOKIO Teca Natural Tej. Sintetico 58x57x84h",
+      "price_supplier": 5857844667.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:116005",
+      "name_original": "SILLON SIRA Teca Natural 54x61x80h",
+      "price_supplier": 5461804566.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:116008",
+      "name_original": "SILLON RELAX Teca Natural Tej sintetico 62X81X73h",
+      "price_supplier": 62817337.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:116010",
+      "name_original": "SILLON COPENHAGUE Teca Natural Tej Sintetic 62x58x76h",
+      "price_supplier": 6258763959.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:116015",
+      "name_original": "SILLON DINASTIA TECA Natural Tej Sintetico 54x61x76h",
+      "price_supplier": 5461764672.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:930220-BAS",
+      "name_original": "SILLA/ESCALERA Basic 44x45x90h",
+      "price_supplier": 444590.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:931220-PAT",
+      "name_original": "SILLA/ESCALERA Natural P\u00e1tina. 44x45x89h",
+      "price_supplier": 444589.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:933050",
+      "name_original": "BANCO VINTAGE Natural 110x55x87H",
+      "price_supplier": 1105587.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:940010-BAS",
+      "name_original": "SILLA MIREIA barras horizontal 46x53x99h",
+      "price_supplier": 465399.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:940011-BAS",
+      "name_original": "SILLA LAURA barras vertical 46x50x104h",
+      "price_supplier": 4650104.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:940055-BAS",
+      "name_original": "SILLON ELOISE Basic 54x56x95h",
+      "price_supplier": 545695.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:940055-PAT",
+      "name_original": "SILLON ELOISE Natural Patina 54x56x95h",
+      "price_supplier": 545695.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:950503-BIC",
+      "name_original": "SILLA CALIFORNIA barras Bicolor 54x52x76h",
+      "price_supplier": 5452764570.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:950525-BIP",
+      "name_original": "SILLA CRUZ Bicolor Lac. Paris 45x54x89h",
+      "price_supplier": 45548947.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:950525-BIS",
+      "name_original": "SILLA CRUZ Bicolor Standard 45x54x89h",
+      "price_supplier": 45548947.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:950525-BLA",
+      "name_original": "SILLA CRUZ Blanca Lacado Par\u00eds 45x54x89h",
+      "price_supplier": 45548947.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:950525-ROB",
+      "name_original": "SILLA CRUZ Col. Roble 45x54x89h",
+      "price_supplier": 45549847.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:950530-ROB",
+      "name_original": "SILLA THONET Asiento madera color Roble 41x53x88h",
+      "price_supplier": 41538847.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:950533-NAT",
+      "name_original": "SILLON DINASTIA Roble 53x51x78h",
+      "price_supplier": 5351784874.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:950535-NEG",
+      "name_original": "SILLA MOKA Negra 46x50x80h",
+      "price_supplier": 46508046.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:950539-NAT",
+      "name_original": "SILLON CONSUL natural 47x51x75h",
+      "price_supplier": 47517846.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:950540-PAT",
+      "name_original": "SILLA CRUZ Hierro Apilable Rust. Patina 45x54x89h",
+      "price_supplier": 45548946.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:950541-ROB",
+      "name_original": "SILLA CRUZ Hierro Apilable Roble con as. de madera 45x54x89h",
+      "price_supplier": 45548946.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:950542-BLA",
+      "name_original": "SILLA CRUZ Hierro Apilable Bicolor 45x54x89h",
+      "price_supplier": 45548946.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:950544",
+      "name_original": "SILLA ELSA Natural Patina 50x58x80h",
+      "price_supplier": 50588046.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:950544-NEG",
+      "name_original": "SILLA ELSA Negra, asiento tapizado",
+      "price_supplier": 47588047.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:950561-CAF",
+      "name_original": "SILLON KENNEDY Caf\u00e9  58x56x75h",
+      "price_supplier": 5856754367.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:905044C",
+      "name_original": "Coj\u00edn Blanco Sill\u00f3n Sophie",
+      "price_supplier": 42.5444,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:910925C",
+      "name_original": "Coj\u00edn Blanco Silla Anna",
+      "price_supplier": 4538.55,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:920076C",
+      "name_original": "Coj\u00edn Blanco Sill\u00f3n Amberes small",
+      "price_supplier": 0.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:119033",
+      "name_original": "Pie de mesa 3 patas abatible",
+      "price_supplier": 0.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:119046",
+      "name_original": "Pie de mesa Redondo \u00d845 Hierro Blanco",
+      "price_supplier": 454572.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:119053",
+      "name_original": "PIE MESA Abatible aluminio negro 3 patas",
+      "price_supplier": 72.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:119057",
+      "name_original": "PIE MESA EQUILIBRA Abatible aluminio negro 4 patas",
+      "price_supplier": 0.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:119090",
+      "name_original": "PIE MESA EQUILIBRA hierro base cuadrada negro",
+      "price_supplier": 454572.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:950920-NEG",
+      "name_original": "PIE MESA 3 Patas Alum/negro 69h",
+      "price_supplier": 525269.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:950921-NEG",
+      "name_original": "PIE MESA 4 Patas Alum/negro 70h",
+      "price_supplier": 606070.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:950922-BLA",
+      "name_original": "PIE MESA de hierro fundido blanco con 4 patas 72h",
+      "price_supplier": 505072.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:950922-CDF",
+      "name_original": "MESA COMPLETA pie abatible con sobre CDF 60\u00d8",
+      "price_supplier": 606072.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:950922-NEG",
+      "name_original": "PIE MESA de hierro fundido negro con 4 patas 72h",
+      "price_supplier": 505072.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:950922-TEC",
+      "name_original": "MESA COMPLETA pie abatible con sobre teca 60\u00d8",
+      "price_supplier": 505072.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:950923-NEG",
+      "name_original": "PIE MESA Alto de hierro fundido 108cm",
+      "price_supplier": 5050108.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:950925-NEG",
+      "name_original": "PIE MESA Redondo de aluminio \u00d880x72h",
+      "price_supplier": 808072.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:950933",
+      "name_original": "PIE MESA Abatible aluminio color negro 71h",
+      "price_supplier": 505071.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:950933-C70",
+      "name_original": "MESA Abatible sobre CDF70x70",
+      "price_supplier": 707072.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:950933-C80",
+      "name_original": "MESA COMPLETA pie abatible con sobre CDF 80x80",
+      "price_supplier": 707072.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:950933-ROB",
+      "name_original": "MESA COMPLETA pie abatible con sobre CDF 70x70",
+      "price_supplier": 707072.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:950933-T60",
+      "name_original": "MESA COMPLETA pie abatible con sobre teca \u00d860",
+      "price_supplier": 606071.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:950933-T70",
+      "name_original": "MESA COMPLETA pie abatible con sobre teca 70x70",
+      "price_supplier": 707071.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:950935",
+      "name_original": "PIE MESA de hierro de Base Plana 72h",
+      "price_supplier": 404072.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:950935-HPL",
+      "name_original": "MESA COMPLETA pie Base Plana con sobre HPL M\u00e1rmol 70x70",
+      "price_supplier": 404072.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:950935-MEL",
+      "name_original": "MESA COMPLETA pie Base Plana con sobre melamina 70x70",
+      "price_supplier": 707075.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:950935-NAT",
+      "name_original": "MESA COMPLETA pie Base Plana con sobre madera 70x70",
+      "price_supplier": 707075.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:950937",
+      "name_original": "PIE MESA Base Grande 75x57x72h",
+      "price_supplier": 755772.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:955900",
+      "name_original": "PIE MESA Abatible aluminio color cafe 71h",
+      "price_supplier": 808071.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:930029/160-BAS",
+      "name_original": "MESA ext. Basic 160x90 (225)",
+      "price_supplier": 1609075.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:931225-PAT",
+      "name_original": "MESA COMEDOR Ext. Natural P\u00e1tina.140x90 (190)",
+      "price_supplier": 1409075.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:940800-BAS",
+      "name_original": "MESA Basic LIBRO teka 90x90",
+      "price_supplier": 9090.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:940800/120",
+      "name_original": "MESA Extensible 120x90 (170)",
+      "price_supplier": 1209075.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:940800/140-BAS",
+      "name_original": "MESA Ext. por las patas, guias metal. 140x90 (190)",
+      "price_supplier": 1409075.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:960150/224",
+      "name_original": "MESA Ext. PALMA alum. 224(304)x100",
+      "price_supplier": 22410075.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:850015-NAT",
+      "name_original": "MESA ALBERTA Natural 200x100x75h",
+      "price_supplier": 20010075.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:850016-NAT",
+      "name_original": "MESA ATLANTA Natural \u00d8120x77h",
+      "price_supplier": 12012077.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:850017-NAT",
+      "name_original": "MESA ATLANTA Natural \u00d8150x77h",
+      "price_supplier": 15077.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:933030",
+      "name_original": "MESA PLEGABLE Teca 70x70x75h",
+      "price_supplier": 707075.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:933055",
+      "name_original": "MESA SUAR Maciza,patas hierro 200x100x76h",
+      "price_supplier": 20010076.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:940060-NOG",
+      "name_original": "MESA Nogal \u00d8108",
+      "price_supplier": 10810875.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:941005-NAT",
+      "name_original": "MESA RUSTIC Mango nat.220x100x76h",
+      "price_supplier": 22010076.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:950550",
+      "name_original": "MESA Rectg. Nat Patina 135x85x75h",
+      "price_supplier": 1358575.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:960150/152",
+      "name_original": "MESA Ext. PALMA alum.152(210)x92",
+      "price_supplier": 15292.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:960150/92",
+      "name_original": "MESA PALMA alum.tk  92x92",
+      "price_supplier": 9292.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:960152",
+      "name_original": "MESA Resina acabado teka 150x90",
+      "price_supplier": 15090.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:960155",
+      "name_original": "MESA TOSSA alum.acabado marmol 100x100",
+      "price_supplier": 100100.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:960156",
+      "name_original": "MESA Alum. cristal 160x96",
+      "price_supplier": 16096.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:850039",
+      "name_original": "Sobre Madera de teca Bilbao 70x70",
+      "price_supplier": 70702.2,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:850575",
+      "name_original": "SOBRE compacto acabado m\u00e1rmol. 60diam",
+      "price_supplier": 60601.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:940016-NAT",
+      "name_original": "SOBRE Mesa de madera maciza 70x70",
+      "price_supplier": 70703.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:940100",
+      "name_original": "SOBRE MESA TECA \u00d860cm",
+      "price_supplier": 6060.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:940103",
+      "name_original": "SOBRE MESA TECA 70x70cm",
+      "price_supplier": 7070.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:940107",
+      "name_original": "SOBRE PINO Macizo, rustic 70x70x2,2cm",
+      "price_supplier": 70702.2,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:940110",
+      "name_original": "SOBRE PINO Macizo, Rustic 110x70x2,2cm",
+      "price_supplier": 110702.2,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:940112-69",
+      "name_original": "SOBRE DE MELAMINA 69x69x3cm",
+      "price_supplier": 69693.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:950547-NAT",
+      "name_original": "SOBRE MESA de madera natural \u00d870",
+      "price_supplier": 70702.5,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:950549-NAT",
+      "name_original": "SOBRE de mesa cuadrado de madera natural 70x70",
+      "price_supplier": 7070.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:850004-BLA",
+      "name_original": "MESA CENTRO MELBOURNE Patina Blanca 119x76x46h",
+      "price_supplier": 1197646.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:920134-OSC",
+      "name_original": "MESA CUBIC Abaca oscura C/cristal",
+      "price_supplier": 0.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:930037/120-BAS",
+      "name_original": "MESA CENTRO Cafe Basic 120x70x45h.",
+      "price_supplier": 1207045.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:930038-BAS",
+      "name_original": "MESA RINCON Basic 70x70x50h",
+      "price_supplier": 707050.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:930105/100-BAS",
+      "name_original": "MESA CENTRO Basic CRUZ 100x50x45h",
+      "price_supplier": 1005045.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:930105/110-BAS",
+      "name_original": "MESA CENTRO Basic CRUZ 110x60x45h",
+      "price_supplier": 1106045.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:930129-BAS",
+      "name_original": "MESA CENTRO Basic, 2 cajones 140x60x40h",
+      "price_supplier": 1406040.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:931037/110-PAT",
+      "name_original": "MESA Centro Natural P\u00e1tina. 110x60x45h",
+      "price_supplier": 1106045.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:940028-NAT",
+      "name_original": "MESA CENTRO Rustic teka rayada 130x65x45h",
+      "price_supplier": 1306545.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:940050-NAT",
+      "name_original": "MESA CENTRO Rustic hierro teka rayada pat. blanca 120x65x42h",
+      "price_supplier": 1206542.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:940820-URB",
+      "name_original": "MESA Urban ELEVABLE 110x60",
+      "price_supplier": 11060.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:940905-BIC",
+      "name_original": "MESA CENTRO Paris Bicolor 100x55x45h",
+      "price_supplier": 1005545.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:940974-NAT",
+      "name_original": "MESA Redonda de centro con base de hierro \u00d890x46h",
+      "price_supplier": 9046.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:940976-NAT",
+      "name_original": "MESA Redonda tallada  \u00d885x45h",
+      "price_supplier": 8545.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:945020/110",
+      "name_original": "MESA CENTRO Milano 110x60x30h",
+      "price_supplier": 1106030.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:122059-BLA",
+      "name_original": "MESA LUCCA 45\u00d8 BLANCA",
+      "price_supplier": 454549.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:122059-GRE",
+      "name_original": "MESA LUCCA 45\u00d8 GRIS",
+      "price_supplier": 454549.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:122059-VER",
+      "name_original": "MESA LUCCA 45\u00d8 VERDE",
+      "price_supplier": 454549.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:905087-BLA",
+      "name_original": "MESITA CURVAS rattan Blanco 55x55x52h",
+      "price_supplier": 0.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:930093/48-BAS",
+      "name_original": "MESAS NIDO Basic S/2 48x40x48h",
+      "price_supplier": 484048.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:930093/65-BAS",
+      "name_original": "MESAS NIDO Basic Juego  S/2 48x40x65h",
+      "price_supplier": 484065.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:930116-IVO",
+      "name_original": "MESITA Ivory Auxiliar. 1 caj\u00f3n. 35x70x65h",
+      "price_supplier": 357065.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:930210-BAS",
+      "name_original": "MESA Basic Red. c/cajon  55\u00d8x70h",
+      "price_supplier": 555570.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:930212-BIC",
+      "name_original": "MESA Redonda nat/blanca 60\u00d8x65h",
+      "price_supplier": 606065.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:930214-PAT",
+      "name_original": "MESA Plegable Nat. patina blanca.60x40x66h",
+      "price_supplier": 604066.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:930216-BAS",
+      "name_original": "MESAS Basic Nido Zeta S/3",
+      "price_supplier": 0.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:940029-NAT",
+      "name_original": "MESA RINCON Rustic teka rayada 70x70x45h",
+      "price_supplier": 707045.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:940052-NAT",
+      "name_original": "MESA Rustic Pq hierro teka rayada pat. blanca 60x40x46h",
+      "price_supplier": 604046.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:940928-BIC",
+      "name_original": "MESA AUXILIAR Paris Bicolor 50x50x55h",
+      "price_supplier": 505055.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:940975-NAT",
+      "name_original": "MESA Redonda de rincon c/hierro \u00d860x60h",
+      "price_supplier": 6060.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:940977-NAT",
+      "name_original": "MESA Redonda de rincon tallada \u00d855x60h",
+      "price_supplier": 5560.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:941016-PAT",
+      "name_original": "MESA Rustic Mango nat/hierro 61x61x57h",
+      "price_supplier": 616157.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:950552",
+      "name_original": "MESA REUS \u00d860X66 color roble",
+      "price_supplier": 6066.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:860170",
+      "name_original": "SOBRE con dibujo grabado \u00d870 color blanco",
+      "price_supplier": 7070.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:860570",
+      "name_original": "SOBRE material CDF  70x70 diferentes colores",
+      "price_supplier": 70701.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:860660",
+      "name_original": "SOBRE material CDF  60\u00d8 diferentes colores",
+      "price_supplier": 60601.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:114001-NAT",
+      "name_original": "SILLON EMMANUELLE rattan Nat. C/Cojin 105x70x145h",
+      "price_supplier": 10570145.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:114001-NEG",
+      "name_original": "SILLON EMMANUELLE rattan negro 105x70x145h",
+      "price_supplier": 10570145.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:114025-NAT",
+      "name_original": "SILLON ABANICO Natural Rattan 63x80x98h",
+      "price_supplier": 6380984162.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:115001-GRI",
+      "name_original": "SILLON SOLLER Kubu Gris c/Cojin",
+      "price_supplier": 6380814466.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:115002-CAL",
+      "name_original": "SILLON SOLLER Calado Gris c/ Cojin",
+      "price_supplier": 7065904569.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:122608",
+      "name_original": "SILLON COLGANTE TEIDE 95x107x200h",
+      "price_supplier": 9510720065.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:850001-BLA",
+      "name_original": "SILLON MELBOURNE Patina Blanca 80x80x86h",
+      "price_supplier": 808086.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:850010-BLA",
+      "name_original": "SILLON ANETO Patina Blanca 76x77x80h",
+      "price_supplier": 767780.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:911293-CHC",
+      "name_original": "SILLON PIEL Gr. Chocolate76x73x75h",
+      "price_supplier": 767375.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:920062",
+      "name_original": "BALANCIN AZORES ca\u00f1a natural 70x105x96h",
+      "price_supplier": 72105965941.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:920065-NAT",
+      "name_original": "SILLON MALIBU ca\u00f1a natural 60x70x89h",
+      "price_supplier": 6070894355.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:920072-GRE",
+      "name_original": "SILLON AMBERES Rattan Gris 64x65x85h",
+      "price_supplier": 6465844365.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:920073-PAT",
+      "name_original": "SILLON AMBERES Rattan Patina Blanca 64x65x85h",
+      "price_supplier": 6465854365.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:920076-NAT",
+      "name_original": "SILLON AMBERES Rattan Natural 63x65x85h",
+      "price_supplier": 62628546.569,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:920101-OSC",
+      "name_original": "SILLON URSULA croco c/cojin 83x82x78h",
+      "price_supplier": 838278.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:920105-BLA",
+      "name_original": "SILLON URSULA Blanco patina 83x82x78h",
+      "price_supplier": 838278.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:940935-BLA",
+      "name_original": "SILLON PARIS Blanco Roto tapizado 70x70x100h",
+      "price_supplier": 0.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:940935-ROB",
+      "name_original": "SILLON PARIS Col. Roble tapizado 70x70x100h",
+      "price_supplier": 7070100.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:970131",
+      "name_original": "SILLON PARQUE",
+      "price_supplier": 0.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:114020",
+      "name_original": "SOFA VERONA 2 Pl. rattan Rosa/Gris 97x60x85h",
+      "price_supplier": 9562904567.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:850002-BLA",
+      "name_original": "SOFA MELBOURNE Patina Blanca 139x80x86h",
+      "price_supplier": 1398086.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:920107-BLA",
+      "name_original": "SOFA URSULA 3 pl.Blanco patina 209x82x78h",
+      "price_supplier": 2098278.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:920124-NAT",
+      "name_original": "SOFA BIG Nat 280x125 Rat\u00e1n Grueso",
+      "price_supplier": 280125.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:920132-OSC",
+      "name_original": "SOFA CUBIC 2 pl. abaca zebraOscuro c/coj 150x82x78h",
+      "price_supplier": 0.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:920133-OSC",
+      "name_original": "SOFA CUBIC 3 pl.abaca zebra Oscuro c/coj",
+      "price_supplier": 1808278.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:905076-TBL",
+      "name_original": "PUF MONZA M\u00e9dula oscura & coj\u00edn blanco 62x42x42h",
+      "price_supplier": 624242.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:905076-TGR",
+      "name_original": "PUF MONZA M\u00e9dula oscura & coj\u00edn gris jaspe 62x42x42h",
+      "price_supplier": 624242.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:905078-BLA",
+      "name_original": "PUF MONZA M\u00e9dula blanca & coj\u00edn blanco 62x42x42h",
+      "price_supplier": 624242.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:930120-BAS",
+      "name_original": "CAJONERA Basic 32x46x75h",
+      "price_supplier": 324675.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:930120-IVO",
+      "name_original": "CAJONERA Ivory 32x46x75h",
+      "price_supplier": 324675.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:930121-BAS",
+      "name_original": "ESTANTE PC Basic 32x46x75h",
+      "price_supplier": 324675.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:930121-IVO",
+      "name_original": "ESTANTE PC Ivory 32x46x75h",
+      "price_supplier": 324675.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:930122",
+      "name_original": "CRISTAL Escritorio 120x60  10mm",
+      "price_supplier": 12060.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:930123",
+      "name_original": "CRISTAL Escritorio 130x60  10mm",
+      "price_supplier": 13060.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:940903-BIC",
+      "name_original": "ESCRITORIO Paris Bicolor 100x50x101h",
+      "price_supplier": 10050101.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:940990-BLA",
+      "name_original": "ESCRITORIO Monaco Blanco Roto 150x55x75h",
+      "price_supplier": 1505575.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:802001",
+      "name_original": "APARADOR Viena 4 puertas cristal",
+      "price_supplier": 1904585.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:802005",
+      "name_original": "MUEBLE TV. Holland 140x45x45h",
+      "price_supplier": 1404545.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:930026/180-BAS",
+      "name_original": "APARADOR Basic 3 puertas 180x45x90h",
+      "price_supplier": 1804590.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:930086/160-BAS",
+      "name_original": "APARADOR Basic bajo 160x45x65h",
+      "price_supplier": 1604565.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:930090-BAS",
+      "name_original": "MUEBLE TV Basic Cajon/Fichero 140x40x50h",
+      "price_supplier": 1404050.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:930201-BAS",
+      "name_original": "MUEBLE TV Basic VENUS 180x50x55h",
+      "price_supplier": 1805055.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:940805-URB",
+      "name_original": "APARADOR URBAN",
+      "price_supplier": 1904580.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:940815-URB",
+      "name_original": "MUEBLE TV URBAN 150X40X50H",
+      "price_supplier": 1504050.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:940818-URB",
+      "name_original": "MUEBLE TV URBAN 180X45X45H",
+      "price_supplier": 1804545.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:940904-BIC",
+      "name_original": "MUEBLE TV. Paris Bicolor 140x45x45h",
+      "price_supplier": 1404545.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:940947-BIC",
+      "name_original": "APARADOR Paris Bicolor 100x42x80h",
+      "price_supplier": 1004280.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:940970-NEG",
+      "name_original": "APARADOR Vintage c/ espejo 160x45x85h",
+      "price_supplier": 1604585.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:940971-NEG",
+      "name_original": "APARADOR 3 caj. espejos 98x45x85h",
+      "price_supplier": 984585.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:940995-GRI",
+      "name_original": "APARADOR 4p. cristal deco.gris 165x35x100h",
+      "price_supplier": 16535100.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:805011",
+      "name_original": "CONSOLA Cannes 110x40x80h",
+      "price_supplier": 1104080.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:930088-BAS",
+      "name_original": "CONSOLA Basic 2 caj.120x35x78h",
+      "price_supplier": 1203578.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:930094-BAS",
+      "name_original": "CONSOLA Basic 3 Cajones disimulados",
+      "price_supplier": 903580.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:930094-IVO",
+      "name_original": "CONSOLA IVORI 3 cajones disimulados",
+      "price_supplier": 902580.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:931089-PAT",
+      "name_original": "CONSOLA con repisa Natural P\u00e1tina. 90x35x78h",
+      "price_supplier": 903578.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:933057",
+      "name_original": "CONSOLA RECICLADA 120x40x76h",
+      "price_supplier": 0.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:933059",
+      "name_original": "CONSOLA 3 repisas 150x44x80",
+      "price_supplier": 1504680.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:940908-BLA",
+      "name_original": "CONSOLA Paris Blanco Roto 120x40x76h",
+      "price_supplier": 1204076.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:940952-BLA",
+      "name_original": "CONSOLA ESCRITORIO Paris Blanco Roto 120x48x76h",
+      "price_supplier": 1204876.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:940978-NAT",
+      "name_original": "CONSOLA Patas S 120x38x85h",
+      "price_supplier": 1203885.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:940978-NEG",
+      "name_original": "CONSOLA Patas S 120x38x85h nat/neg",
+      "price_supplier": 1203885.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:941017-NAT",
+      "name_original": "CONSOLA Rustic Mango nat/hierro 122x46x77h",
+      "price_supplier": 1224677.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:802015",
+      "name_original": "COMODA Amsterdam 100x40x85h",
+      "price_supplier": 1004085.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:805003",
+      "name_original": "COMODA Hollywood 102x50x89h",
+      "price_supplier": 1025089.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:805004",
+      "name_original": "CHIFONIER Hollywood 61x46x135h",
+      "price_supplier": 6146135.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:805007",
+      "name_original": "JOYERO Hollywood 48x33x111h",
+      "price_supplier": 4833111.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:930066-IVO",
+      "name_original": "COMODA Ivory 3 caj. 105x40x85h",
+      "price_supplier": 1054085.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:930176-BAS",
+      "name_original": "CHIFONIER Basic 60x40x120h",
+      "price_supplier": 6040120.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:930176-IVO",
+      "name_original": "CHIFONIER Ivory 60x40x120h",
+      "price_supplier": 6040120.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:930218-BAS",
+      "name_original": "MUEBLE Decorado Batic 60x34x82h",
+      "price_supplier": 603482.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:940901-BLA",
+      "name_original": "COMODA Paris Blanco Roto 90x42x86h",
+      "price_supplier": 904286.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:940913-BLA",
+      "name_original": "CHIFONIER Paris Blanco Roto 56x36x110h",
+      "price_supplier": 5636110.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:940925-BLA",
+      "name_original": "CHIFONIER Paris Blanco Roto 70x41x110h",
+      "price_supplier": 7041110.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:940958-BIC",
+      "name_original": "COMODA Paris Bicolor 2 ptas.130x45x85h",
+      "price_supplier": 1304585.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:802003",
+      "name_original": "LIBRERIA Marco 85x38x200h.",
+      "price_supplier": 8538200.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:802012",
+      "name_original": "VITRINA Holland 150x42x210h",
+      "price_supplier": 15042210.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:930062-BAS",
+      "name_original": "LIBRERIA Basic 58x40x180h",
+      "price_supplier": 5840180.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:930127-BAS",
+      "name_original": "LIBRERIA Basic 2 Posiciones 90x40x140h",
+      "price_supplier": 9040140.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:930130-BAS",
+      "name_original": "VITRINA Basic Puertas/caj. 120x40x150h",
+      "price_supplier": 12040150.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:930133-BAS",
+      "name_original": "MUEBLE Basic Auxiliar 45x40x141h",
+      "price_supplier": 454014.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:930148-BAS",
+      "name_original": "MUEBLE Aux. Basic Estantes/ caj./ puerta 30x30x150h",
+      "price_supplier": 3030150.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:930175-BAS",
+      "name_original": "VITRINA Basic (parte arriba) P/correderas cristal 145x40x60h",
+      "price_supplier": 1454060.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:930200-BAS",
+      "name_original": "LIBRERIA Basic VENUS 120x40x200h",
+      "price_supplier": 12040200.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:931127-PAT",
+      "name_original": "LIBRERIA Natural P\u00e1tina. 90x40x140h",
+      "price_supplier": 9040140.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:931130-PAT",
+      "name_original": "VITRINA Natural P\u00e1tina. 120x40x150h",
+      "price_supplier": 12040150.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:940912-BIC",
+      "name_original": "LIBRERIA Paris Bicolor 70x35x140h",
+      "price_supplier": 7035140.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:940916-BLA",
+      "name_original": "VITRINA Paris Blanco Roto 60x35x123h",
+      "price_supplier": 6035123.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:940945-BLA",
+      "name_original": "LIBRERIA Paris Blanco Roto 80x40x210h",
+      "price_supplier": 8040210.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:940949-BIC",
+      "name_original": "VITRINA Paris Bicolor 150x42x210h",
+      "price_supplier": 15042210.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:802007",
+      "name_original": "MESITA Holland 40x34x70h.",
+      "price_supplier": 403470.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:805001",
+      "name_original": "MESITA Hollywood 1 caj.50x40x57h",
+      "price_supplier": 504057.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:930009-BAS",
+      "name_original": "MESITA NOCHE Basic 2 caj. 45x40x60h",
+      "price_supplier": 454060.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:930096-BAS",
+      "name_original": "MESITA BAJA Basic 2 huecos Aux. 45x34x83h.",
+      "price_supplier": 453483.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:933011",
+      "name_original": "MESITA Pq. Natural 45x33x65H",
+      "price_supplier": 453365.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:940914-BIC",
+      "name_original": "MESITA AUXILIAR Paris Bicolor con copete 40x34x90h",
+      "price_supplier": 403490.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:940914-BLA",
+      "name_original": "MESITA AUXILIAR Paris Blanco Roto c/copete 40x34x90h",
+      "price_supplier": 403490.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:940984-BLA",
+      "name_original": "MESITA Monaco Blanco Roto 55x40x60h",
+      "price_supplier": 554060.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:114002-NAT",
+      "name_original": "CABEZAL Sisi Natural160x4x161cm",
+      "price_supplier": 1604161.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:802008",
+      "name_original": "CABECERO Holland 160cm",
+      "price_supplier": 160.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:920055-NAT",
+      "name_original": "CABEZAL ABACA 10x10 , 96x8x105h",
+      "price_supplier": 968105.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:930043-BAS",
+      "name_original": "CABEZAL Basic tupido 160x110h",
+      "price_supplier": 160110.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:930044-BAS",
+      "name_original": "CABEZAL Basic tupido 95x110h",
+      "price_supplier": 95110.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:930050/160-BAS",
+      "name_original": "CABEZAL Basic de barras 160x110h",
+      "price_supplier": 160110.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:930050/190-BAS",
+      "name_original": "CABEZAL Basic de barras 190x110h",
+      "price_supplier": 190110.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:930051-BAS",
+      "name_original": "CABEZAL Basic  de barras 95x110h",
+      "price_supplier": 95110.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:930051-IVO",
+      "name_original": "CABEZAL Ivory de barras 95x110h",
+      "price_supplier": 95110.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:931051-PAT",
+      "name_original": "CABEZAL Barras Natural P\u00e1tina. 95x110h",
+      "price_supplier": 95110.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:940920/160-BLA",
+      "name_original": "CABEZAL Paris Rejilla Blanco Roto 160cm",
+      "price_supplier": 160130.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:940920/95-BLA",
+      "name_original": "CABEZAL Paris Rejilla Blanco Roto 95cm",
+      "price_supplier": 95130.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:940921/145",
+      "name_original": "CABEZAL Lineal Blanco Roto 145 cm",
+      "price_supplier": 145.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:940921/160-BLA",
+      "name_original": "CABEZAL Paris Lineal Blanco Roto 160cm",
+      "price_supplier": 160120.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:940921/95-BLA",
+      "name_original": "CABEZAL Paris Lineal Blanco Roto 95cm",
+      "price_supplier": 95120.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:933065",
+      "name_original": "ARMARIO PERSIANA 95x45x150h",
+      "price_supplier": 9545150.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:930126-BAS",
+      "name_original": "BAUL Basic Apertura frontal 120x38x45h",
+      "price_supplier": 1203845.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:930170-BAS",
+      "name_original": "ZAPATERO Basic de 3 puertas. 80x30x130h",
+      "price_supplier": 8030130.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:930070/100-BAS",
+      "name_original": "REPISA Basic 100cm",
+      "price_supplier": 100.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:930070/125-BAS",
+      "name_original": "REPISA Basic 125 cm",
+      "price_supplier": 1251525.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:940954-BLA",
+      "name_original": "REPISA Paris Blanco Roto 80x20x20h",
+      "price_supplier": 802020.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:115010",
+      "name_original": "MACETERO BIG Gris S/3 Asa Rattan",
+      "price_supplier": 0.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:115012",
+      "name_original": "MACETERO BIG Nat S/3 Asa Cuerda",
+      "price_supplier": 0.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:850022-DEC",
+      "name_original": "RAQUETA Vintage 35x3,5x88h",
+      "price_supplier": 353.588,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:850023-DEC",
+      "name_original": "BOOMERANG Canguros Vintage 39x2x39h",
+      "price_supplier": 39239.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:850024-DEC",
+      "name_original": "DADO Teca Vintage 15x15x15h",
+      "price_supplier": 151515.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:850026-DEC",
+      "name_original": "TRINEO Vintage  80x45x34h",
+      "price_supplier": 804534.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:850029-DEC",
+      "name_original": "TABLA SURF US Blanco 200x60x13",
+      "price_supplier": 2006013.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:850031-DEC",
+      "name_original": "TABLA SURF US Surfer 200x60x13",
+      "price_supplier": 2006013.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:114033-NAT",
+      "name_original": "ESPEJO Ojo Rattan natural 71x45x3",
+      "price_supplier": 71345.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:114033-NEG",
+      "name_original": "ESPEJO Ojo Rattan negro 71x45x3",
+      "price_supplier": 71345.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:114055-NEG",
+      "name_original": "ESPEJO Redondo rattan negro 75x3",
+      "price_supplier": 75375.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:805108",
+      "name_original": "ESPEJO Venecia 8 45x112h",
+      "price_supplier": 45112.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:805109",
+      "name_original": "ESPEJO Venecia 9 71x83h",
+      "price_supplier": 7183.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:805114",
+      "name_original": "ESPEJO Venecia 14 48x196h",
+      "price_supplier": 48196.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:805115",
+      "name_original": "ESPEJO Florencia 61x91h",
+      "price_supplier": 6191.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:805116",
+      "name_original": "ESPEJO Astor 58x48h.",
+      "price_supplier": 5848.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:930040/100-BAS",
+      "name_original": "ESPEJO Basic 80x100 marco 12cm",
+      "price_supplier": 80100.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:930040/100-IVO",
+      "name_original": "ESPEJO Ivory 80x100 marco 12cm",
+      "price_supplier": 80100.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:930040/135-BAS",
+      "name_original": "ESPEJO Basic 135x70 marco 12 cm",
+      "price_supplier": 13570.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:930040/135-IVO",
+      "name_original": "ESPEJO Ivory 135x70 marco 12 cm",
+      "price_supplier": 13570.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:930040/50-BAS",
+      "name_original": "ESPEJO Basic 50x50",
+      "price_supplier": 5050.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:930041/100-BAS",
+      "name_original": "ESPEJO Basic 100x100 marco 10 cm",
+      "price_supplier": 100100.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:930041/175-BAS",
+      "name_original": "ESPEJO Basic 175x60 marco 10 cm",
+      "price_supplier": 17560.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:930069-BAS",
+      "name_original": "ESPEJO Basic de pie 47x160",
+      "price_supplier": 47160.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:940030/165-NAT",
+      "name_original": "ESPEJO Rustic Teca rayada 70x165",
+      "price_supplier": 70165.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:940918-BLA",
+      "name_original": "ESPEJO Paris Ovalado Blanco Roto 60x90",
+      "price_supplier": 6090.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:940987-BLA",
+      "name_original": "ESPEJO Paris Lineal Blanco Roto 80x105",
+      "price_supplier": 80105.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:945065",
+      "name_original": "ESPEJO V\u00e9neto 140x80",
+      "price_supplier": 0.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:945075",
+      "name_original": "ESPEJO hoja 100x100",
+      "price_supplier": 0.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:945097",
+      "name_original": "ESPEJO Tallado calado 80x60",
+      "price_supplier": 6080.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:945105",
+      "name_original": "ESPEJO Tallado calado \u00d896",
+      "price_supplier": 0.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:940982-BLA",
+      "name_original": "CHIMENEA Blanco Roto 120x25x120h",
+      "price_supplier": 12025120.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:940982-NAT",
+      "name_original": "CHIMENEA Col. Roble 120x25x120h",
+      "price_supplier": 12025120.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:920085NAT",
+      "name_original": "LAMPARA Jaula red. Gr. 60\u00d8 x 47h cm",
+      "price_supplier": 606047.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:920086NAT",
+      "name_original": "LAMPARA Jaula Cilindrica 42\u00d8 x 57h cm",
+      "price_supplier": 424257.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:920088NAT",
+      "name_original": "LAMPARA JAULA Grande 62\u00d8 x73h cm",
+      "price_supplier": 626273.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:920084NAT",
+      "name_original": "LAMPARA Jaula red. Pq. 48\u00d8 x 45h cm",
+      "price_supplier": 484845.0,
+      "source": "excel"
+    },
+    {
+      "sku_adquify": "BAM-REFERENCIA:940956-BLA",
+      "name_original": "PERCHA Paris Blanco Roto 78x18x20h",
+      "price_supplier": 781820.0,
+      "source": "excel"
+    }
+  ]
+}

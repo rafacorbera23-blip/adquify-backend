@@ -1,0 +1,6 @@
+Traceback (most recent call last):
+  File "C:\Treball\1.Negocios\Adquify\adquify-engine\run_pipeline.py", line 4, in <module>
+    from services.visual_search import VisualSearchService
+  File "C:\Treball\1.Negocios\Adquify\adquify-engine\services\visual_search.py", line 3, in <module>
+    from PIL import Image
+ModuleNotFoundError: No module named 'PIL'

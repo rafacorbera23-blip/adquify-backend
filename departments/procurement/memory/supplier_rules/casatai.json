@@ -1,0 +1,15 @@
+{
+    "supplier_code": "CASATAI",
+    "base_url": "https://www.casatai.com/",
+    "category_focus": "consumables",
+    "scraping_rules": {
+        "strategy": "list_selector",
+        "description": "Needs recurring order logic (napkins, amenities)",
+        "rate_limit": "2 requests/second"
+    },
+    "commercial_rules": {
+        "default_margin": 1.60,
+        "is_recurring": true,
+        "recurrence_period_days": 30
+    }
+}

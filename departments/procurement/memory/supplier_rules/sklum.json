@@ -1,0 +1,18 @@
+{
+    "supplier_code": "SKLUM",
+    "base_url": "https://www.sklum.com/es/",
+    "scraping_rules": {
+        "strategy": "loose_selector",
+        "cookies_bypass": "aggressive_js_click",
+        "max_images": "all_carousel",
+        "rate_limit": "2 requests/second"
+    },
+    "commercial_rules": {
+        "default_margin": 1.45,
+        "min_order_value": 300,
+        "shipping_cost_tier": {
+            "0-500": 20,
+            "500+": 0
+        }
+    }
+}
