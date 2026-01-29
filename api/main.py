@@ -54,6 +54,10 @@ app.include_router(suppliers_v2.router)
 from api.routers import innovation_v1
 app.include_router(innovation_v1.router)
 
+# Include WhatsApp Router
+from api.routers import whatsapp
+app.include_router(whatsapp.router)
+
 # Startup/Shutdown Events
 from contextlib import asynccontextmanager
 from services.scheduler_service import get_scheduler
