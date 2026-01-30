@@ -21,6 +21,16 @@ VERIFY_TOKEN = os.getenv("WHATSAPP_VERIFY_TOKEN", "adquify_verify_token")
 API_TOKEN = os.getenv("WHATSAPP_API_TOKEN")
 PHONE_NUMBER_ID = os.getenv("WHATSAPP_PHONE_NUMBER_ID")
 
+# DEBUG: Check if credentials are loaded
+logger.info("--- WHATSAPP CREDENTIALS DEBUG ---")
+logger.info(f"API_TOKEN Loaded: {'YES' if API_TOKEN else 'NO'} ({len(API_TOKEN) if API_TOKEN else 0} chars)")
+logger.info(f"PHONE_NUMBER_ID Loaded: {'YES' if PHONE_NUMBER_ID else 'NO'}")
+if not API_TOKEN:
+    logger.error("CRITICAL: WHATSAPP_API_TOKEN is missing from os.environ")
+if not PHONE_NUMBER_ID:
+    logger.error("CRITICAL: WHATSAPP_PHONE_NUMBER_ID is missing from os.environ")
+logger.info("----------------------------------")
+
 async def send_whatsapp_message(to: str, text: str):
     """
     Sends a message via WhatsApp Graph API.

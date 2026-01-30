@@ -31,7 +31,14 @@ class AdquifyChatEngine:
             return await self._fallback_sql_search(query)
 
         # 2. Vector Search (Qdrant)
-        search_results = await self.vector_store.search(query_vector, limit=5)
+        search_results = []
+        try:
+            search_results = await self.vector_store.search(query_vector, limit=5)
+        except Exception as e:
+            import logging
+            logging.error(f"⚠️ Vector Search Failed (Qdrant Error): {e}")
+            # Do NOT crash. Just proceed to empty results which triggers fallback.
+            search_results = []
         
         # 3. Process Results
         products = []
