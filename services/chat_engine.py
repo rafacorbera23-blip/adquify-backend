@@ -28,7 +28,7 @@ class AdquifyChatEngine:
             query_vector = await self.embedder.get_embedding_async(query)
         except Exception as e:
             # Fallback if OpenAI down
-            return self._fallback_sql_search(query)
+            return await self._fallback_sql_search(query)
 
         # 2. Vector Search (Qdrant)
         search_results = await self.vector_store.search(query_vector, limit=5)
@@ -52,11 +52,11 @@ class AdquifyChatEngine:
             products = ordered_products
 
         if not products:
-             return self._fallback_sql_search(query)
+             return await self._fallback_sql_search(query)
 
-        return self._format_response(products, query)
+        return await self._format_response(products, query)
 
-    def _fallback_sql_search(self, query: str) -> Dict:
+    async def _fallback_sql_search(self, query: str) -> Dict:
         """
         Legacy SQL search as backup.
         """
@@ -67,7 +67,7 @@ class AdquifyChatEngine:
                 Product.description.ilike(f"%{query}%")
             )
         ).limit(5).all()
-        return self._format_response(products, query, is_fallback=True)
+        return await self._format_response(products, query, is_fallback=True)
 
     async def _format_response(self, products: List[Product], query: str, is_fallback: bool = False) -> Dict:
         if not products:
