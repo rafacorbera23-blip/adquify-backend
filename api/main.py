@@ -4,6 +4,10 @@ Adquify Engine - API Backend Funcional
 API completa para gestión de scrapers, credenciales y catálogo interno.
 """
 
+# Load Env Vars FIRST
+from dotenv import load_dotenv
+load_dotenv()
+
 from fastapi import FastAPI, HTTPException, BackgroundTasks
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
@@ -17,6 +21,36 @@ from sqlalchemy.orm import Session
 from core.database import get_db, SessionLocal
 from core.models import Product, Supplier, ProductImage
 from services.chat_engine import AdquifyChatEngine
+
+# Ensure Tables & Migrations
+from core.database import engine, Base
+from sqlalchemy import inspect, text
+
+def run_migrations():
+    """Simple startup migration to fix schema drift in SQLite"""
+    try:
+        inspector = inspect(engine)
+        if "products" in inspector.get_table_names():
+            columns = [c["name"] for c in inspector.get_columns("products")]
+            
+            with engine.connect() as conn:
+                # 1. stock_quantity
+                if "stock_quantity" not in columns:
+                    print("⚠️ Migration: Adding 'stock_quantity' column...")
+                    conn.execute(text("ALTER TABLE products ADD COLUMN stock_quantity INTEGER DEFAULT 0"))
+                
+                # 2. last_stock_update
+                if "last_stock_update" not in columns:
+                    print("⚠️ Migration: Adding 'last_stock_update' column...")
+                    conn.execute(text("ALTER TABLE products ADD COLUMN last_stock_update TIMESTAMP"))
+                
+                conn.commit()
+            print("✅ DB Migrations Checked.")
+    except Exception as e:
+        print(f"❌ Migration Error: {e}")
+
+run_migrations()
+Base.metadata.create_all(bind=engine)
 
 # Paths
 ENGINE_ROOT = Path(__file__).parent.parent

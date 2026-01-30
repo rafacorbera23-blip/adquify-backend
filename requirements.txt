@@ -15,7 +15,7 @@ python-jose[cryptography]==3.3.0
 passlib[bcrypt]==1.7.4
 
 # AI & Vector DB
-qdrant-client>=1.7.0
+qdrant-client>=1.9.0
 google-generativeai>=0.3.0
 python-dotenv>=1.0.0
 
