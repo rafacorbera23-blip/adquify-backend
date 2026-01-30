@@ -1,4 +1,5 @@
 import os
+import logging
 import google.generativeai as genai
 from sqlalchemy.orm import Session
 from core.models import Product
