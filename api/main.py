@@ -711,7 +711,7 @@ async def chat_with_catalog(req: ChatRequest):
 
 # ===== INGESTION TRIGGER =====
 
-@app.post("/api/ingest/trigger")
+@app.get("/api/ingest/trigger")
 async def trigger_ingestion(background_tasks: BackgroundTasks):
     """
     Emergency Trigger: Ingest final_catalog.csv and Reindex Qdrant.

@@ -127,13 +127,14 @@ Genera una respuesta breve, recomendando estos productos. Menciona que se adjunt
             )
             
             # Defensive check
-            if response and response.text:
+            if response and hasattr(response, 'text') and response.text:
                 ai_response_text = response.text
             else:
                  # Fallback if text generation is blocked or empty
                 print("Gemini response was empty or blocked.")
-                raise ValueError("Empty response from Gemini")
-                
+                # DO NOT RAISE, just fallback
+                ai_response_text = f"He encontrado {len(products)} opciones para tu búsqueda. Te adjunto el PDF con los detalles."
+
         except Exception as e:
             print(f"Gemini Generation Error: {e}")
             prefix = "🔍 (Búsqueda por Similitud)" if not is_fallback else "⚠️ (Búsqueda por Palabras Clave)"
