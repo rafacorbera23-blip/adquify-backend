@@ -77,8 +77,27 @@ async def shutdown_event():
     notif = get_notification_service()
     await notif.close()
 
+from dotenv import load_dotenv
+load_dotenv()
+
 # Ensure Tables Exist
 from core.database import engine, Base
+from sqlalchemy import inspect, text
+
+def run_migrations():
+    """Simple startup migration to fix schema drift in SQLite"""
+    inspector = inspect(engine)
+    if "products" in inspector.get_table_names():
+        columns = [c["name"] for c in inspector.get_columns("products")]
+        if "stock_quantity" not in columns:
+            print("⚠️ Migration: Adding 'stock_quantity' column to products table...")
+            with engine.connect() as conn:
+                conn.execute(text("ALTER TABLE products ADD COLUMN stock_quantity INTEGER DEFAULT 0"))
+                conn.commit()
+            print("✅ Migration: 'stock_quantity' added.")
+
+# Run migrations BEFORE creating tables (or after, create_all won't touch existing tables)
+run_migrations()
 Base.metadata.create_all(bind=engine)
 
 # CORS

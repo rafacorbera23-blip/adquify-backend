@@ -25,9 +25,16 @@ class QdrantHandler:
         self.api_key = os.getenv("QDRANT_API_KEY", None)
         
         try:
-            self.client = QdrantClient(url=self.url, api_key=self.api_key)
-            self.async_client = AsyncQdrantClient(url=self.url, api_key=self.api_key)
-            logger.info(f"Connected to Qdrant at {self.url}")
+            if self.url == ":memory:":
+                # In-memory mode (Local) - Sync only
+                self.client = QdrantClient(location=":memory:")
+                self.async_client = None
+                logger.info("Connected to Qdrant (Memory Mode)")
+            else:
+                # Server mode
+                self.client = QdrantClient(url=self.url, api_key=self.api_key)
+                self.async_client = AsyncQdrantClient(url=self.url, api_key=self.api_key)
+                logger.info(f"Connected to Qdrant at {self.url}")
         except Exception as e:
             logger.error(f"Failed to connect to Qdrant: {e}")
             self.client = None
@@ -73,23 +80,34 @@ class QdrantHandler:
             logger.error(f"Error checking/creating collection: {e}")
 
     async def search(self, vector: List[float], limit: int = 5, score_threshold: float = 0.6) -> List[Any]:
-        if not self.async_client:
-            return []
-
+        if not self.async_client and not self.client:
+             return []
+        
         try:
-            results = await self.async_client.search(
-                collection_name=self.collection_name,
-                query_vector=vector,
-                limit=limit,
-                score_threshold=score_threshold
-            )
+            if self.async_client:
+                results = await self.async_client.search(
+                    collection_name=self.collection_name,
+                    query_vector=vector,
+                    limit=limit,
+                    score_threshold=score_threshold
+                )
+            else:
+                # Fallback to sync client (wrapped in thread if needed, but for memory it's fast)
+                import asyncio
+                results = await asyncio.to_thread(
+                    self.client.search,
+                    collection_name=self.collection_name,
+                    query_vector=vector,
+                    limit=limit,
+                    score_threshold=score_threshold
+                )
             return results
         except Exception as e:
             logger.error(f"Search failed: {e}")
             return []
 
     async def upsert_point(self, point_id: str, vector: List[float], payload: Dict):
-        if not self.async_client:
+        if not self.async_client and not self.client:
             return
 
         try:
@@ -102,15 +120,27 @@ class QdrantHandler:
                 # Hash string to UUID
                 final_id = str(uuid.uuid5(uuid.NAMESPACE_DNS, str(point_id)))
 
-            await self.async_client.upsert(
-                collection_name=self.collection_name,
-                points=[
-                    models.PointStruct(
-                        id=final_id,
-                        vector=vector,
-                        payload=payload
-                    )
-                ]
-            )
+            points = [
+                models.PointStruct(
+                    id=final_id,
+                    vector=vector,
+                    payload=payload
+                )
+            ]
+
+            if self.async_client:
+                await self.async_client.upsert(
+                    collection_name=self.collection_name,
+                    points=points
+                )
+            else:
+                 # Fallback to sync 
+                 import asyncio
+                 await asyncio.to_thread(
+                     self.client.upsert,
+                     collection_name=self.collection_name,
+                     points=points
+                 )
+                 
         except Exception as e:
             logger.error(f"Upsert failed for {point_id}: {e}")
