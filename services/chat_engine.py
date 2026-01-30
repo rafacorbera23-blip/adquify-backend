@@ -119,13 +119,21 @@ Productos encontrados en catálogo:
 
 Genera una respuesta breve, recomendando estos productos. Menciona que se adjunta un PDF con detalles."""
             
-            model = genai.GenerativeModel('gemini-pro')
+            model = genai.GenerativeModel('gemini-1.5-flash')
             # Run blocking generation in thread
             response = await asyncio.to_thread(
                 model.generate_content, 
                 f"{system_prompt}\n\n{user_message}"
             )
-            ai_response_text = response.text
+            
+            # Defensive check
+            if response and response.text:
+                ai_response_text = response.text
+            else:
+                 # Fallback if text generation is blocked or empty
+                print("Gemini response was empty or blocked.")
+                raise ValueError("Empty response from Gemini")
+                
         except Exception as e:
             print(f"Gemini Generation Error: {e}")
             prefix = "🔍 (Búsqueda por Similitud)" if not is_fallback else "⚠️ (Búsqueda por Palabras Clave)"
