@@ -81,10 +81,12 @@ class QdrantHandler:
 
     async def search(self, vector: List[float], limit: int = 5, score_threshold: float = 0.6) -> List[Any]:
         if not self.async_client and not self.client:
+             logger.warning("Qdrant client is not initialized.")
              return []
         
         try:
             if self.async_client:
+                # Async modern client
                 results = await self.async_client.search(
                     collection_name=self.collection_name,
                     query_vector=vector,
@@ -92,18 +94,34 @@ class QdrantHandler:
                     score_threshold=score_threshold
                 )
             else:
-                # Fallback to sync client (wrapped in thread if needed, but for memory it's fast)
-                import asyncio
-                results = await asyncio.to_thread(
-                    self.client.search,
-                    collection_name=self.collection_name,
-                    query_vector=vector,
-                    limit=limit,
-                    score_threshold=score_threshold
-                )
+                # Sync client (Memory/Local Fallback)
+                # Attempt to find the correct search method dynamically to handle version mismatches
+                search_method = getattr(self.client, "search", None)
+                
+                if search_method:
+                     # Modern >1.7.0
+                     import asyncio
+                     results = await asyncio.to_thread(
+                        search_method,
+                        collection_name=self.collection_name,
+                        query_vector=vector,
+                        limit=limit,
+                        score_threshold=score_threshold
+                    )
+                else:
+                    # Try legacy/alternative methods?
+                    # Some versions might expose it under `points` or `search_points`
+                    logger.warning("QdrantClient.search not found. Trying points logic or returning empty.")
+                    # For now, if 'search' is missing on the main client, it's safer to fallback to SQL 
+                    # than to guess obscure API methods which might also crash.
+                    # We log clearly to help debug versions.
+                    import qdrant_client
+                    logger.error(f"INSTALLED QDRANT VERSION: {qdrant_client.__version__}")
+                    return []
+
             return results
         except Exception as e:
-            logger.error(f"Search failed: {e}")
+            logger.error(f"Search failed with error: {e}")
             return []
 
     async def upsert_point(self, point_id: str, vector: List[float], payload: Dict):
