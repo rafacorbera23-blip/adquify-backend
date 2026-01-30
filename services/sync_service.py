@@ -83,6 +83,11 @@ async def reindex_qdrant_from_db(db: Session, vector_store: QdrantHandler):
 
     logger.info("Starting Re-indexing from DB...")
     
+    # CRITICAL: Ensure collection exists (fix for race condition in In-Memory Qdrant)
+    if vector_store:
+        vector_store.ensure_collection()
+    
+    
     products = db.query(Product).filter(Product.embedding_json.isnot(None)).all()
     logger.info(f"Found {len(products)} products with embeddings in DB.")
     
