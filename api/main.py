@@ -503,7 +503,7 @@ def export_client_catalog():
 # ----- VISUAL SEARCH -----
 
 from fastapi import UploadFile, File
-from services.visual_search import VisualSearchService
+# from services.visual_search import VisualSearchService
 from io import BytesIO
 import numpy as np
 from PIL import Image
@@ -513,9 +513,9 @@ from PIL import Image
 visual_search = None
 
 # Initialize Service (Agent)
-from departments.procurement.visual_search_agent import VisualSearchAgent
-
-visual_search_agent = VisualSearchAgent()
+# from departments.procurement.visual_search_agent import VisualSearchAgent
+# visual_search_agent = VisualSearchAgent()
+visual_search_agent = None
 
 def get_visual_search_agent():
     return visual_search_agent
@@ -523,7 +523,7 @@ def get_visual_search_agent():
 @app.post("/search/image")
 async def search_by_image(file: UploadFile = File(...)):
     """Busca productos similares por imagen"""
-    service = get_visual_search()
+    # service = get_visual_search()
     
     # 1. Read Image
     content = await file.read()
