@@ -124,6 +124,9 @@ class Product(Base):
     raw_data = Column(JSON, default={}) # All scraped data
     status = Column(String, default="draft") # draft, reviewed, published
     
+    # Embedding Cache (for fast re-indexing)
+    embedding_json = Column(JSON, nullable=True)
+
     created_at = Column(DateTime, default=datetime.utcnow)
     updated_at = Column(DateTime, default=datetime.utcnow, onupdate=datetime.utcnow)
     

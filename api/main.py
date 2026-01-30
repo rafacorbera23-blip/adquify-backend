@@ -21,6 +21,8 @@ from sqlalchemy.orm import Session
 from core.database import get_db, SessionLocal
 from core.models import Product, Supplier, ProductImage
 from services.chat_engine import AdquifyChatEngine
+from core.ai.vector_store import QdrantHandler
+from services.sync_service import reindex_qdrant_from_db
 
 # Ensure Tables & Migrations
 from core.database import engine, Base
@@ -99,9 +101,30 @@ from services.notification_service import get_notification_service
 
 @app.on_event("startup")
 async def startup_event():
-    """Initialize scheduler on startup"""
+    """Initialize scheduler and AI services on startup"""
     scheduler = get_scheduler()
     scheduler.start()
+    
+    # Initialize Global Qdrant Handler (Singleton for :memory: persistence)
+    try:
+        app.state.qdrant_handler = QdrantHandler()
+        app.state.qdrant_handler.ensure_collection()
+        print("✅ Qdrant Handler Initialized")
+        
+        # Trigger Re-indexing from DB (Background)
+        # We need a dedicated DB session for this background task that closes afterwards
+        async def run_reindex():
+            db = SessionLocal()
+            try:
+                await reindex_qdrant_from_db(db, app.state.qdrant_handler)
+            finally:
+                db.close()
+                
+        asyncio.create_task(run_reindex())
+        print("🚀 Background Re-indexing Task Started")
+        
+    except Exception as e:
+        print(f"❌ Failed to initialize Qdrant: {e}")
 
 @app.on_event("shutdown")
 async def shutdown_event():
@@ -672,7 +695,10 @@ async def chat_with_catalog(req: ChatRequest):
     """Interfaz de chat inteligente con el catálogo"""
     db: Session = SessionLocal()
     try:
-        engine = AdquifyChatEngine(db)
+        # Use Singleton Qdrant Handler if available (crucial for :memory: mode)
+        qdrant_handler = getattr(app.state, "qdrant_handler", None)
+        
+        engine = AdquifyChatEngine(db, vector_store=qdrant_handler)
         response = await engine.process_query(req.message)
         return response
     finally:

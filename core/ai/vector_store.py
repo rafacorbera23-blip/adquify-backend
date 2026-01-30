@@ -95,12 +95,13 @@ class QdrantHandler:
                 )
             else:
                 # Sync client (Memory/Local Fallback)
-                # Attempt to find the correct search method dynamically to handle version mismatches
+                import asyncio
+                
+                # Dynamic method check without importing qdrant_client module explicitly for version
                 search_method = getattr(self.client, "search", None)
                 
                 if search_method:
                      # Modern >1.7.0
-                     import asyncio
                      results = await asyncio.to_thread(
                         search_method,
                         collection_name=self.collection_name,
@@ -109,15 +110,28 @@ class QdrantHandler:
                         score_threshold=score_threshold
                     )
                 else:
-                    # Try legacy/alternative methods?
-                    # Some versions might expose it under `points` or `search_points`
-                    logger.warning("QdrantClient.search not found. Trying points logic or returning empty.")
-                    # For now, if 'search' is missing on the main client, it's safer to fallback to SQL 
-                    # than to guess obscure API methods which might also crash.
-                    # We log clearly to help debug versions.
-                    import qdrant_client
-                    logger.error(f"INSTALLED QDRANT VERSION: {qdrant_client.__version__}")
-                    return []
+                    # Fallback to query_points (Local/Memory)
+                    query_points = getattr(self.client, "query_points", None)
+                    if query_points:
+                        # query_points local signature: collection_name, query, limit, with_payload, score_threshold
+                        resp = await asyncio.to_thread(
+                            query_points,
+                            collection_name=self.collection_name,
+                            query=vector,
+                            limit=limit,
+                            score_threshold=score_threshold,
+                            with_payload=True
+                        )
+                        # Handle return type variation (list, tuple, object)
+                        if isinstance(resp, tuple):
+                            results = resp[0]
+                        elif hasattr(resp, "points"):
+                            results = resp.points
+                        else:
+                            results = resp
+                    else:
+                        logger.warning("QdrantClient.search AND query_points not found. Returning empty.")
+                        return []
 
             return results
         except Exception as e:

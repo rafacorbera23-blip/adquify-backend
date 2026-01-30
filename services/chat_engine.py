@@ -12,10 +12,10 @@ class AdquifyChatEngine:
     Uses Google Gemini Embeddings + Qdrant Vector Search.
     """
     
-    def __init__(self, db: Session):
+    def __init__(self, db: Session, vector_store=None):
         self.db = db
         self.embedder = GeminiEmbeddingHandler()
-        self.vector_store = QdrantHandler()
+        self.vector_store = vector_store if vector_store else QdrantHandler()
         # Ensure collection exists on startup (async in practice, but fire and forget here or sync check)
         self.vector_store.ensure_collection()
 
@@ -94,10 +94,45 @@ class AdquifyChatEngine:
             print(f"PDF Generation Error: {e}")
             pdf_url = None
 
-        prefix = "🔍 (Búsqueda por Similitud)" if not is_fallback else "⚠️ (Búsqueda por Palabras Clave)"
-        
+        # Generate AI Answer using Gemini Pro
+        ai_response_text = ""
+        try:
+            import google.generativeai as genai
+            
+            # Context builder
+            products_context = "\n".join([
+                f"- {p.name} (Precio: €{p.selling_price or 'Consultar'}, Stock: {p.stock_quantity if p.last_stock_update else 'Consultar'})"
+                for p in products
+            ])
+            
+            system_prompt = """Eres un vendedor experto de 'Global Prosper', una empresa líder en suministros hoteleros.
+Tu tono es profesional, cercano y persuasivo.
+Tu objetivo es ayudar al cliente a encontrar lo que necesita y cerrar la venta (o agendar una consulta).
+Responde a partir de los productos encontrados en nuestro catálogo.
+NO inventes productos. Si no hay información suficiente en los productos listados, sugiere contactar a ventas.
+Sé conciso y directo (es WhatsApp)."""
+
+            user_message = f"""Consulta del cliente: "{query}"
+
+Productos encontrados en catálogo:
+{products_context}
+
+Genera una respuesta breve, recomendando estos productos. Menciona que se adjunta un PDF con detalles."""
+            
+            model = genai.GenerativeModel('gemini-pro')
+            # Run blocking generation in thread
+            response = await asyncio.to_thread(
+                model.generate_content, 
+                f"{system_prompt}\n\n{user_message}"
+            )
+            ai_response_text = response.text
+        except Exception as e:
+            print(f"Gemini Generation Error: {e}")
+            prefix = "🔍 (Búsqueda por Similitud)" if not is_fallback else "⚠️ (Búsqueda por Palabras Clave)"
+            ai_response_text = f"{prefix} He encontrado {len(products)} opciones para '{query}'. Te las he adjuntado en el PDF."
+
         response = {
-            "answer": f"{prefix} He encontrado {len(products)} opciones para '{query}'. Te he generado un PDF detallado con esta selección.",
+            "answer": ai_response_text,
             "pdf_url": pdf_url,
             "products": [
                 {
