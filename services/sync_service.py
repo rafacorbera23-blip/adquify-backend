@@ -1,10 +1,58 @@
-
-import logging
+import os
+import google.generativeai as genai
 from sqlalchemy.orm import Session
 from core.models import Product
 from core.ai.vector_store import QdrantHandler
 
 logger = logging.getLogger("SyncService")
+
+async def generate_missing_embeddings(db: Session):
+    """
+    Scans for products without embeddings and generates them using Gemini.
+    """
+    api_key = os.getenv("GOOGLE_API_KEY")
+    if not api_key:
+        logger.warning("No GOOGLE_API_KEY, cannot generate embeddings.")
+        return
+
+    genai.configure(api_key=api_key)
+    
+    # Fetch products without embeddings
+    products = db.query(Product).filter(Product.embedding_json.is_(None)).all()
+    
+    if not products:
+        logger.info("All products have embeddings.")
+        return
+
+    logger.info(f"Generating embeddings for {len(products)} new products...")
+    
+    count = 0
+    for product in products:
+        try:
+            # Construct text representation
+            text = f"{product.name} {product.description or ''} {product.category or ''} Price: {product.selling_price}"
+            
+            # Call Gemini
+            result = genai.embed_content(
+                model="models/text-embedding-004", 
+                content=text,
+                task_type="retrieval_document"
+            )
+            
+            # Save to DB
+            if 'embedding' in result:
+                product.embedding_json = result['embedding']
+                count += 1
+            
+            # Commit every 50 to avoid big transactions hanging
+            if count % 50 == 0:
+                db.commit()
+                
+        except Exception as e:
+            logger.error(f"Embedding failed for {product.sku_adquify}: {e}")
+            
+    db.commit()
+    logger.info(f"Embedding generation complete. {count} updated.")
 
 async def reindex_qdrant_from_db(db: Session, vector_store: QdrantHandler):
     """

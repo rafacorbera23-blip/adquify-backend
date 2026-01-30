@@ -16,7 +16,7 @@ passlib[bcrypt]==1.7.4
 
 # AI & Vector DB
 qdrant-client==1.7.3
-google-generativeai>=0.3.0
+google-generativeai>=0.7.0
 python-dotenv>=1.0.0
 
 # PDF Generation

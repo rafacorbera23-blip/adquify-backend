@@ -22,7 +22,9 @@ from core.database import get_db, SessionLocal
 from core.models import Product, Supplier, ProductImage
 from services.chat_engine import AdquifyChatEngine
 from core.ai.vector_store import QdrantHandler
-from services.sync_service import reindex_qdrant_from_db
+from services.sync_service import reindex_qdrant_from_db, generate_missing_embeddings
+from departments.procurement.scraping_skill.scripts.catalog_merger import CatalogMergerAgent
+from fastapi import BackgroundTasks, Depends
 
 # Ensure Tables & Migrations
 from core.database import engine, Base
@@ -705,6 +707,65 @@ async def chat_with_catalog(req: ChatRequest):
         db.close()
 
 # ===== MAIN =====
+
+
+# ===== INGESTION TRIGGER =====
+
+@app.post("/api/ingest/trigger")
+async def trigger_ingestion(background_tasks: BackgroundTasks):
+    """
+    Emergency Trigger: Ingest final_catalog.csv and Reindex Qdrant.
+    Request by user to fix empty production DB.
+    """
+    csv_path = "final_catalog.csv"
+    if not os.path.exists(csv_path):
+         # Try absolute path fallback
+         csv_path = str(Path(os.getcwd()) / "final_catalog.csv")
+    
+    if not os.path.exists(csv_path):
+        # Fallback to checking parent dir if running from api folder
+        csv_path = str(Path(__file__).parent.parent / "final_catalog.csv")
+        
+    if not os.path.exists(csv_path):
+        raise HTTPException(status_code=404, detail=f"final_catalog.csv not found in {os.getcwd()} or parent")
+
+    async def _heavy_lifting():
+        print(f"🚀 Starting Ingestion from {csv_path}")
+        
+        # 1. Ingest via Agent (SQLite Population)
+        try:
+             merger = CatalogMergerAgent()
+             merger.merge_and_publish(csv_path)
+             print("✅ [Background] SQL Ingestion Complete.")
+        except Exception as e:
+             print(f"❌ [Background] SQL Ingestion Failed: {e}")
+             return
+
+        # 2. Generate Embeddings & Reindex Qdrant
+        try:
+            db_session = SessionLocal() 
+            
+            # A. Generate Missing Embeddings (Gemini)
+            # This is CRUCIAL for search to work
+            await generate_missing_embeddings(db_session)
+            
+            # B. Push to Qdrant
+            # Need strict re-initialization
+            q_handler = QdrantHandler()
+            
+            # Double check connection
+            if not q_handler.client:
+                print("❌ [Background] Qdrant Client failed to init.")
+            else:
+                await reindex_qdrant_from_db(db_session, q_handler)
+                print("✅ [Background] Qdrant Sync Complete.")
+            
+            db_session.close()
+        except Exception as e:
+            print(f"❌ [Background] Sync Failed: {e}")
+
+    background_tasks.add_task(_heavy_lifting)
+    return {"status": "Ingestion & Sync started in background", "target_file": csv_path}
 
 if __name__ == "__main__":
     import uvicorn
