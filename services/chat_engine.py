@@ -101,7 +101,7 @@ class AdquifyChatEngine:
             
             # Context builder
             products_context = "\n".join([
-                f"- {p.name} (Precio: €{p.selling_price or 'Consultar'}, Stock: {p.stock_quantity if p.last_stock_update else 'Consultar'})"
+                f"- {p.name} (Precio: €{p.selling_price or 'Consultar'}, Stock: {p.stock_actual if p.last_sync else 'Consultar'})"
                 for p in products
             ])
             
@@ -119,7 +119,7 @@ Productos encontrados en catálogo:
 
 Genera una respuesta breve, recomendando estos productos. Menciona que se adjunta un PDF con detalles."""
             
-            model = genai.GenerativeModel('gemini-1.5-flash')
+            model = genai.GenerativeModel('gemini-pro')
             # Run blocking generation in thread
             response = await asyncio.to_thread(
                 model.generate_content, 
@@ -150,7 +150,7 @@ Genera una respuesta breve, recomendando estos productos. Menciona que se adjunt
                     "sku": p.sku_adquify,
                     "image": p.images[0].url if p.images else None,
                     "url": p.raw_data.get('url', '#'),
-                    "stock": p.stock_quantity if p.last_stock_update else "Consultar"
+                    "stock": p.stock_actual if p.last_sync else "Consultar"
                 } for p in products
             ]
         }
