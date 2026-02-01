@@ -100,7 +100,7 @@ async def reindex_qdrant_from_db(db: Session, vector_store: QdrantHandler):
                 "price": p.selling_price,
                 "category": p.category,
                 "url": p.raw_data.get('url') if p.raw_data else None,
-                "stock": p.stock_quantity if p.last_stock_update else "Consultar"
+                "stock": p.stock_actual if p.last_sync else "Consultar"
             }
             
             # Upsert

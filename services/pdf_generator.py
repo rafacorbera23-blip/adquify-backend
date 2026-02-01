@@ -46,10 +46,19 @@ class PDFGenerator:
             fontName='Helvetica-Bold'
         )
 
+
+import logging
+logger = logging.getLogger(__name__)
+
     def generate_catalog_pdf(self, products: List[Product], query_context: str) -> str:
         """
         Generates a PDF for the list of products and returns the relative URL path.
         """
+        # CRITICAL FIX: Safe Guard against None input
+        if not query_context or not isinstance(query_context, str):
+            logger.error("PDF Generation skipped: Input text is None or invalid.")
+            return None
+
         timestamp = datetime.utcnow().strftime("%Y%m%d_%H%M%S")
         filename = f"Adquify_Selection_{timestamp}.pdf"
         filepath = PDF_DIR / filename

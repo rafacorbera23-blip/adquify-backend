@@ -22,6 +22,8 @@ class Supplier(Base):
     id = Column(Integer, primary_key=True, index=True)
     code = Column(String, unique=True, index=True)  # 'distrigal', 'kave', 'sklum'
     name = Column(String)
+    integration_type = Column(String, default="scraping") # API, CSV, SCRAPING
+
     
     # Fiscal Data
     fiscal_name = Column(String, nullable=True)
@@ -68,6 +70,17 @@ class Client(Base):
     
     orders = relationship("Order", back_populates="client")
 
+class Agent(Base):
+    __tablename__ = "agents"
+    
+    id = Column(Integer, primary_key=True, index=True)
+    name = Column(String, index=True)
+    email = Column(String, unique=True, nullable=True)
+    commission_percent = Column(Float, default=0.10) # 10% default
+    total_sales = Column(Float, default=0.0)
+    
+    orders = relationship("Order", back_populates="agent")
+
 class Order(Base):
     __tablename__ = "orders"
     
@@ -80,8 +93,12 @@ class Order(Base):
     supplier_id = Column(Integer, ForeignKey("suppliers.id"))
     supplier = relationship("Supplier", back_populates="orders")
     
+    
     client_id = Column(Integer, ForeignKey("clients.id"), nullable=True)
     client = relationship("Client", back_populates="orders")
+    
+    agent_id = Column(Integer, ForeignKey("agents.id"), nullable=True)
+    agent = relationship("Agent", back_populates="orders")
     
     invoices = relationship("Invoice", back_populates="order")
 
@@ -117,11 +134,13 @@ class Product(Base):
     selling_price = Column(Float) # PVP Adquify
     
     # Inventory
-    stock_quantity = Column(Integer, default=0)
-    last_stock_update = Column(DateTime, nullable=True)
+    stock_actual = Column(Integer, default=0)
+    status_stock = Column(String, default="red") # green, yellow, red
+    last_sync = Column(DateTime, default=datetime.utcnow)
     
     # Metadata
-    raw_data = Column(JSON, default={}) # All scraped data
+    metadata_json = Column(JSON, default={}) # Dimensions, colors, weights
+    raw_data = Column(JSON, default={}) # Original raw data from scraping
     status = Column(String, default="draft") # draft, reviewed, published
     
     # Embedding Cache (for fast re-indexing)

@@ -70,7 +70,8 @@ async def ingest_file(file_path: str, db: Session, embedder: GeminiEmbeddingHand
                     product.name = p_data.get("name")
                     product.selling_price = p_data.get("price") or 0.0
                     product.description = p_data.get("description")
-                    product.stock_quantity = 100 # Mock stock for now if missing
+                    product.stock_actual = 100 # Mock stock
+                    product.status_stock = "green"
                     # Update other fields as needed
                 else:
                     # Create
@@ -80,8 +81,9 @@ async def ingest_file(file_path: str, db: Session, embedder: GeminiEmbeddingHand
                         name=p_data.get("name"),
                         description=p_data.get("description"),
                         selling_price=p_data.get("price") or 0.0,
-                        stock_quantity=100, # Mock stock
-                        supplier_id=1, # Default supplier ID for now or lookup
+                        stock_actual=100, # Mock stock
+                        status_stock="green",
+                        supplier_id=1, # Default supplier ID
                         raw_data=p_data,
                         category=p_data.get('category')
                     )
@@ -89,7 +91,6 @@ async def ingest_file(file_path: str, db: Session, embedder: GeminiEmbeddingHand
                     db.flush() # Get ID
 
                 # Images
-                # (Simplified: clear and re-add or just add if missing. For speed, skipping image logic if already exists)
                 if not existing_product and p_data.get("images"):
                     for img_url in p_data.get("images"):
                         db.add(ProductImage(product_id=product.id, url=img_url))
@@ -133,15 +134,22 @@ async def main():
         if "products" in inspector.get_table_names():
             columns = [c["name"] for c in inspector.get_columns("products")]
             with engine.connect() as conn:
-                if "stock_quantity" not in columns:
-                    logger.info("Adding 'stock_quantity' column...")
-                    conn.execute(text("ALTER TABLE products ADD COLUMN stock_quantity INTEGER DEFAULT 0"))
-                if "last_stock_update" not in columns:
-                    logger.info("Adding 'last_stock_update' column...")
-                    conn.execute(text("ALTER TABLE products ADD COLUMN last_stock_update TIMESTAMP"))
+                # Rename/Add new columns logic or just add if missing
+                if "stock_actual" not in columns:
+                    logger.info("Adding 'stock_actual' column...")
+                    conn.execute(text("ALTER TABLE products ADD COLUMN stock_actual INTEGER DEFAULT 0"))
+                if "status_stock" not in columns:
+                    logger.info("Adding 'status_stock' column...")
+                    conn.execute(text("ALTER TABLE products ADD COLUMN status_stock VARCHAR DEFAULT 'red'"))
+                if "last_sync" not in columns:
+                    logger.info("Adding 'last_sync' column...")
+                    conn.execute(text("ALTER TABLE products ADD COLUMN last_sync TIMESTAMP"))
+                if "metadata_json" not in columns:
+                    logger.info("Adding 'metadata_json' column...")
+                    conn.execute(text("ALTER TABLE products ADD COLUMN metadata_json TEXT"))
                 if "embedding_json" not in columns:
                     logger.info("Adding 'embedding_json' column...")
-                    conn.execute(text("ALTER TABLE products ADD COLUMN embedding_json TEXT")) # JSON in sqlite is TEXT/JSON
+                    conn.execute(text("ALTER TABLE products ADD COLUMN embedding_json TEXT"))
                 conn.commit()
     except Exception as e:
         logger.error(f"Migration failed: {e}")

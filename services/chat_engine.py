@@ -119,7 +119,7 @@ Productos encontrados en catálogo:
 
 Genera una respuesta breve, recomendando estos productos. Menciona que se adjunta un PDF con detalles."""
             
-            model = genai.GenerativeModel('gemini-pro')
+            model = genai.GenerativeModel('models/gemini-1.5-flash')
             # Run blocking generation in thread
             response = await asyncio.to_thread(
                 model.generate_content, 
