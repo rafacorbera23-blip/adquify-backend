@@ -22,7 +22,6 @@ class Supplier(Base):
     id = Column(Integer, primary_key=True, index=True)
     code = Column(String, unique=True, index=True)  # 'distrigal', 'kave', 'sklum'
     name = Column(String)
-    integration_type = Column(String, default="scraping") # API, CSV, SCRAPING
 
     
     # Fiscal Data
@@ -135,7 +134,6 @@ class Product(Base):
     
     # Inventory
     stock_quantity = Column(Integer, default=0)
-    status_stock = Column(String, default="red") # green, yellow, red
     last_stock_update = Column(DateTime, default=datetime.utcnow)
     
     # Metadata
