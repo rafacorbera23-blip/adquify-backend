@@ -101,7 +101,7 @@ class AdquifyChatEngine:
             
             # Context builder
             products_context = "\n".join([
-                f"- {p.name} (Precio: €{p.selling_price or 'Consultar'}, Stock: {getattr(p, 'stock_quantity', getattr(p, 'stock_actual', 'Consultar'))})"
+                f"- {p.name} (Precio: €{p.selling_price or 'Consultar'}, Stock: {getattr(p, 'stock_quantity', 'Consultar')})"
                 for p in products
             ])
             
@@ -150,7 +150,7 @@ Genera una respuesta breve, recomendando estos productos. Menciona que se adjunt
                     "sku": p.sku_adquify,
                     "image": p.images[0].url if p.images else None,
                     "url": p.raw_data.get('url', '#'),
-                    "stock": getattr(p, 'stock_quantity', getattr(p, 'stock_actual', 'Consultar'))
+                    "stock": getattr(p, 'stock_quantity', 'Consultar')
                 } for p in products
             ]
         }

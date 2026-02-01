@@ -134,9 +134,9 @@ class Product(Base):
     selling_price = Column(Float) # PVP Adquify
     
     # Inventory
-    stock_actual = Column(Integer, default=0)
+    stock_quantity = Column(Integer, default=0)
     status_stock = Column(String, default="red") # green, yellow, red
-    last_sync = Column(DateTime, default=datetime.utcnow)
+    last_stock_update = Column(DateTime, default=datetime.utcnow)
     
     # Metadata
     metadata_json = Column(JSON, default={}) # Dimensions, colors, weights
